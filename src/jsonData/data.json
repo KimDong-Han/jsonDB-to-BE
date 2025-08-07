@@ -1,0 +1,5691 @@
+[
+  {
+    "_id": {
+      "$oid": "666af9b6fb32f4ced674836a"
+    },
+    "title": "중대발표...",
+    "url": "https://youtu.be/I57T1y-nOJU",
+    "iconImg": "https://i.ytimg.com/vi/HM8IyCSuuso/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2023-07-02T03:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed204056605a9445e130"
+    },
+    "title": "QWER Teaser #1",
+    "url": "https://youtu.be/p-FH4cYE_4s",
+    "iconImg": "https://i.ytimg.com/vi/p-FH4cYE_4s/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-07-02T04:01:05.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed204056605a9445e12e"
+    },
+    "title": "진짜 미친 레전드 캐스팅.. 냥뇽녕냥 실물 최초 공개!? l 최애의 아이들 EP1",
+    "url": "https://youtu.be/Jk5fE3vc0CY",
+    "iconImg": "https://i.ytimg.com/vi/Jk5fE3vc0CY/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2023-07-03T09:59:04.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed204056605a9445e12e"
+    },
+    "title": "QWER Teaser #2",
+    "url": "https://youtu.be/CDahs6rtmLo",
+    "iconImg": "https://i.ytimg.com/vi/Jk5fE3vc0CY/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-07-05T09:59:04.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed204056605a9445e12c"
+    },
+    "title": "진짜 겁나 예쁘네.. 미공개 영상┃전지적 타마고 시점",
+    "url": "https://youtu.be/KzbH3Xqdgss",
+    "iconImg": "https://i.ytimg.com/vi/KzbH3Xqdgss/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-07-07T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed204056605a9445e12a"
+    },
+    "title": "냥뇽녕냥 QWER 3번째 멤버 확정!! 그리고 마지막 4번째 멤버... l 최애의 아이들 EP2",
+    "url": "https://youtu.be/pT8cJDIYkZ0",
+    "iconImg": "https://i.ytimg.com/vi/pT8cJDIYkZ0/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2023-07-09T03:00:08.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed204056605a9445e128"
+    },
+    "title": "안녕하세요! 냥뇽녕냥입니다❤️ l 최애의 아이들 EP3",
+    "url": "https://youtu.be/wtJpwGna8MY",
+    "iconImg": "https://i.ytimg.com/vi/wtJpwGna8MY/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2023-07-16T03:00:13.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed204056605a9445e126"
+    },
+    "title": "드디어 모였습니다...❤‍🔥 l 최애의 아이들 EP4",
+    "url": "https://youtu.be/XTueJH16wGQ",
+    "iconImg": "https://i.ytimg.com/vi/XTueJH16wGQ/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2023-07-23T03:00:22.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed1f4056605a9445e124"
+    },
+    "title": "쵸단, 마젠타, 냥뇽녕냥 ❤️‍🔥 그리고 마지막..!! l 최애의 아이들 EP5",
+    "url": "https://youtu.be/fmFFHrjrYvk",
+    "iconImg": "https://i.ytimg.com/vi/fmFFHrjrYvk/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2023-07-30T03:00:17.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed1f4056605a9445e122"
+    },
+    "title": "QWER Teaser #3",
+    "url": "https://youtu.be/U2xcfo_BR70",
+    "iconImg": "https://i.ytimg.com/vi/U2xcfo_BR70/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-08-03T09:00:19.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed1f4056605a9445e120"
+    },
+    "title": "레전드 그녀.. 저희 보컬이 되어주실래요..? 니시무라 호노카씨 !!! l 최애의 아이들 EP6",
+    "url": "https://youtu.be/Onkxkr2A7BM",
+    "iconImg": "https://i.ytimg.com/vi/Onkxkr2A7BM/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2023-08-06T03:00:15.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed1f4056605a9445e11e"
+    },
+    "title": "마지막 멤버를 공개합니다.. l 최애의 아이들 EP7",
+    "url": "https://youtu.be/_1JxVDLZWvw",
+    "iconImg": "https://i.ytimg.com/vi/_1JxVDLZWvw/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2023-08-13T03:00:25.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed1f4056605a9445e11c"
+    },
+    "title": "처음 얘기하는 쵸단의 진심 l QWER 33문 33답",
+    "url": "https://youtu.be/-iiC6iDl6iE",
+    "iconImg": "https://i.ytimg.com/vi/-iiC6iDl6iE/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-08-15T09:00:09.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed1f4056605a9445e11a"
+    },
+    "title": "처음 말하는 마젠타의 이야기 l QWER 33문 33답",
+    "url": "https://youtu.be/QrGbJz5H1PU",
+    "iconImg": "https://i.ytimg.com/vi/QrGbJz5H1PU/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-08-17T09:00:28.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed1e4056605a9445e118"
+    },
+    "title": "카더가든과 냥뇽녕냥과 가터벨트와 양념치킨 l 최애의 아이들 EP8",
+    "url": "https://youtu.be/Y8MJDn78vrs",
+    "iconImg": "https://i.ytimg.com/vi/Y8MJDn78vrs/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2023-08-20T03:00:12.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed1e4056605a9445e116"
+    },
+    "title": "냥뇽녕냥 QWER 최초공개 합류 후 속마음 l QWER 33문 33답",
+    "url": "https://youtu.be/pBKeFGBBJs8",
+    "iconImg": "https://i.ytimg.com/vi/pBKeFGBBJs8/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-08-22T09:00:26.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed1e4056605a9445e114"
+    },
+    "title": "일본 아이돌 출신 QWER의 금쪽이.. 그녀의 속마음 l QWER 33문 33답",
+    "url": "https://youtu.be/4WB9NCUbX9c",
+    "iconImg": "https://i.ytimg.com/vi/4WB9NCUbX9c/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-08-24T09:03:28.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed1e4056605a9445e112"
+    },
+    "title": "QWER Teaser #4",
+    "url": "https://youtu.be/JraKOLzz9yY",
+    "iconImg": "https://i.ytimg.com/vi/JraKOLzz9yY/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-08-25T09:03:01.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed1e4056605a9445e110"
+    },
+    "title": "이분이 나온다고..? 진짜 레전드 과외선생님의 등장.. l 최애의 아이들 EP9",
+    "url": "https://youtu.be/q8rH71F5rp0",
+    "iconImg": "https://i.ytimg.com/vi/q8rH71F5rp0/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2023-08-27T03:00:31.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed1e4056605a9445e10e"
+    },
+    "title": "야 김계란.┃전지적 타마고 시점",
+    "url": "https://youtu.be/MMur10zndN8",
+    "iconImg": "https://i.ytimg.com/vi/MMur10zndN8/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-08-31T09:00:14.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed1e4056605a9445e10c"
+    },
+    "title": "한 호흡으로 이게 된다고..? 사황 에일리 등장..🔥 l 최애의 아이들 EP10",
+    "url": "https://youtu.be/5_AjeMei1oc",
+    "iconImg": "https://i.ytimg.com/vi/5_AjeMei1oc/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2023-09-03T03:00:08.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced6748367"
+    },
+    "title": "일본 아이돌 몸상태 ㄷㄷ",
+    "url": "https://youtu.be/NUaJpmT0_Ks",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-09-07T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed1d4056605a9445e10a"
+    },
+    "title": "냥뇽녕냥 + 피아노 =  💕?",
+    "url": "https://youtu.be/iiV-BS6Nc9Q",
+    "iconImg": "https://i.ytimg.com/vi/iiV-BS6Nc9Q/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-09-07T09:00:33.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed1b4056605a9445e108"
+    },
+    "title": "드디어 데뷔곡 공개!? 그녀들의 속마음.. l 최애의 아이들 EP11",
+    "url": "https://youtu.be/dBoHGUoruN0",
+    "iconImg": "https://i.ytimg.com/vi/dBoHGUoruN0/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2023-09-10T03:00:10.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed1a4056605a9445e106"
+    },
+    "title": "생방송에서 XXX를 부르는 아이돌이 있다고..? l 최애의 아이들 EP12",
+    "url": "https://youtu.be/bYaYGlWZ2uM",
+    "iconImg": "https://i.ytimg.com/vi/bYaYGlWZ2uM/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2023-09-17T03:00:14.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed184056605a9445e104"
+    },
+    "title": "신인 걸그룹 기합 l 최애의 아이들 EP13",
+    "url": "https://youtu.be/stV2UrwtkGQ",
+    "iconImg": "https://i.ytimg.com/vi/stV2UrwtkGQ/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2023-09-24T03:00:01.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed184056605a9445e102"
+    },
+    "title": "데뷔 전 극악 다이어트 중인 냥뇽녕냥 앞에서 삼겹살 소주 먹방 (feat.이선민)",
+    "url": "https://youtu.be/iAJx3sq_veE",
+    "iconImg": "https://i.ytimg.com/vi/iAJx3sq_veE/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-09-27T11:00:37.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed184056605a9445e100"
+    },
+    "title": "QWER의 2023년 첫 추석 인사!! 🌕행복한 추석되세요💕",
+    "url": "https://youtu.be/85dpOpI9pp8",
+    "iconImg": "https://i.ytimg.com/vi/85dpOpI9pp8/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-09-29T03:00:07.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed144056605a9445e0fe"
+    },
+    "title": "지상 최강의 아이돌 트레이너 등장.. l 최애의 아이들 EP14",
+    "url": "https://youtu.be/GHmZb-8IGEk",
+    "iconImg": "https://i.ytimg.com/vi/GHmZb-8IGEk/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2023-10-05T09:41:21.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed144056605a9445e0fc"
+    },
+    "title": "[QWER 다큐멘터리] 100일간의 기록 Episode 1",
+    "url": "https://youtu.be/TQJf65vp9GU",
+    "iconImg": "https://i.ytimg.com/vi/TQJf65vp9GU/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2023-10-08T03:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed144056605a9445e0fa"
+    },
+    "title": "QWER - Harmony from Discord [Q] CHODAN",
+    "url": "https://youtu.be/_Qx7FKElGSs",
+    "iconImg": "https://i.ytimg.com/vi/_Qx7FKElGSs/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-10-09T09:00:32.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed144056605a9445e0fa"
+    },
+    "title": "QWER - Harmony from Discord [W] MAGENTA",
+    "url": "https://youtu.be/UPp0QycESLM",
+    "iconImg": "https://i.ytimg.com/vi/_Qx7FKElGSs/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-10-10T09:00:32.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed144056605a9445e0f8"
+    },
+    "title": "QWER - Harmony from Discord [E] HINA",
+    "url": "https://youtu.be/S62cnt2HCc4",
+    "iconImg": "https://i.ytimg.com/vi/S62cnt2HCc4/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-10-11T09:00:26.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed144056605a9445e0f6"
+    },
+    "title": "QWER - Harmony from Discord [R] SIYEON",
+    "url": "https://youtu.be/hXt5AF6om5o",
+    "iconImg": "https://i.ytimg.com/vi/hXt5AF6om5o/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-10-12T09:00:35.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed134056605a9445e0f4"
+    },
+    "title": "QWER 1st Single Album 'Harmony from Discord' Highlight Medley",
+    "url": "https://youtu.be/XcjFZ4IflMM",
+    "iconImg": "https://i.ytimg.com/vi/XcjFZ4IflMM/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-10-14T09:00:30.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed134056605a9445e0f2"
+    },
+    "title": "QWER - 별의 하모니(Harmony of stars) Official Special Clip",
+    "url": "https://youtu.be/On6Pm4M-dQQ",
+    "iconImg": "https://i.ytimg.com/vi/On6Pm4M-dQQ/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-10-15T03:00:10.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed134056605a9445e0f0"
+    },
+    "title": "QWER 'Discord' M/V Teaser",
+    "url": "https://youtu.be/8TnNL5BdgPI",
+    "iconImg": "https://i.ytimg.com/vi/8TnNL5BdgPI/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-10-16T09:08:28.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed134056605a9445e0ee"
+    },
+    "title": "QWER 'Discord (디스코드)' Official MV",
+    "url": "https://youtu.be/WGm2HmXeeRI",
+    "iconImg": "https://i.ytimg.com/vi/WGm2HmXeeRI/hqdefault.jpg",
+    "tag": "mv",
+    "uploadDate": {
+      "$date": "2023-10-18T09:00:18.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed124056605a9445e0ec"
+    },
+    "title": "덱스부터 영지까지.. 30명의 몰래카메라! 멤버들을 위해서 준비해봤습니다.",
+    "url": "https://youtu.be/JCP6jWIKP7E",
+    "iconImg": "https://i.ytimg.com/vi/JCP6jWIKP7E/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-10-21T09:00:09.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed114056605a9445e0ea"
+    },
+    "title": "[QWER 다큐멘터리] 100일간의 기록 Episode 2",
+    "url": "https://youtu.be/fuARuy5trN8",
+    "iconImg": "https://i.ytimg.com/vi/fuARuy5trN8/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2023-10-22T09:00:31.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed0f4056605a9445e0e8"
+    },
+    "title": "QWER 'Discord (디스코드)' MV Behind The Scenes",
+    "url": "https://youtu.be/9etUItIfxdE",
+    "iconImg": "https://i.ytimg.com/vi/9etUItIfxdE/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-10-27T10:00:08.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed0c4056605a9445e0e6"
+    },
+    "title": "[QWER 다큐멘터리] 100일간의 기록 Final Episode",
+    "url": "https://youtu.be/S71cOdttQf4",
+    "iconImg": "https://i.ytimg.com/vi/S71cOdttQf4/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2023-10-29T03:00:24.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed084056605a9445e0e4"
+    },
+    "title": "QWER 1st Single Album 'Harmony from Discord' Showcase Highlight l 쇼케이스 하이라이트",
+    "url": "https://youtu.be/6ZjGAQO0gRU",
+    "iconImg": "https://i.ytimg.com/vi/6ZjGAQO0gRU/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-11-02T09:00:03.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed064056605a9445e0e2"
+    },
+    "title": "오랜만에 기강(?) 씨게 잡고왔습니다",
+    "url": "https://youtu.be/AwA1twfrrLI",
+    "iconImg": "https://i.ytimg.com/vi/AwA1twfrrLI/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-11-05T03:00:05.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed024056605a9445e0e0"
+    },
+    "title": "[DNFM] 'Embracing me' QWER ver l 여프리스트 테마곡",
+    "url": "https://youtu.be/zVyGw2j-t4g",
+    "iconImg": "https://i.ytimg.com/vi/zVyGw2j-t4g/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-11-09T02:00:26.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced674834d"
+    },
+    "title": "QWER, 김계란❤︎쵸단 열애로 해체 위기? | QWER | Discord | 본인등판 | Look Me Up | 김계란 쵸단 마젠타 이시연",
+    "url": "https://youtu.be/HM8IyCSuuso",
+    "iconImg": "https://i.ytimg.com/vi/HM8IyCSuuso/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-11-10T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aed004056605a9445e0de"
+    },
+    "title": "따봉던파모바일아 고마워!! [embracing me 비하인드]",
+    "url": "https://youtu.be/tunWGptCAwA",
+    "iconImg": "https://i.ytimg.com/vi/tunWGptCAwA/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-11-12T03:00:32.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecff4056605a9445e0dc"
+    },
+    "title": "수능",
+    "url": "https://youtu.be/9snfmadqurs",
+    "iconImg": "https://i.ytimg.com/vi/9snfmadqurs/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-11-14T09:00:08.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecfd4056605a9445e0da"
+    },
+    "title": "롤드컵 전야제 나와! QWER 나와!! l 롤드컵 연습 Behind",
+    "url": "https://youtu.be/u3IPlRJIg9I",
+    "iconImg": "https://i.ytimg.com/vi/u3IPlRJIg9I/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-11-16T09:00:45.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced6748365"
+    },
+    "title": "윤하에게 인방밴드의 성공 가능성을 묻다",
+    "url": "https://youtu.be/eW1CRJnsvQE",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-11-19T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced6748350"
+    },
+    "title": "CLICK 360 EP.3 | Get to Know Korean Girl Band QWER! 💥",
+    "url": "https://youtu.be/12EJzJuA_XI",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-11-23T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecf74056605a9445e0d8"
+    },
+    "title": "[ 기 습 숭 배 ]",
+    "url": "https://youtu.be/mARMD1dKBtk",
+    "iconImg": "https://i.ytimg.com/vi/mARMD1dKBtk/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-11-23T09:00:28.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced6748352"
+    },
+    "title": "[EN] QWER 기타즈!🎸 마젠타&히나의 옷장 최초 공개! [쇼미더클로젯2 EP.11]",
+    "url": "https://youtu.be/U4elDwDwM8c",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-11-24T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecf74056605a9445e0d6"
+    },
+    "title": "8000명 관객앞에 처음 선 QWER.. l 롤드컵 전야제 Behind",
+    "url": "https://youtu.be/BvtbeKAvUcc",
+    "iconImg": "https://i.ytimg.com/vi/BvtbeKAvUcc/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-11-26T09:00:02.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecf74056605a9445e0d4"
+    },
+    "title": "QWER '롤드컵 전야제' opening stage live l Full ver.",
+    "url": "https://youtu.be/8YBYjpUC1eU",
+    "iconImg": "https://i.ytimg.com/vi/8YBYjpUC1eU/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-11-26T09:00:05.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced6748351"
+    },
+    "title": "(re-upload) (QWER / Idol_Challenge Ep-1) 총합 팔로워가 1000만명?! 괴물신인이 등장했다 ㅎㄷㄷ… (ENG sub)",
+    "url": "https://youtu.be/vwDGxy0dFaE",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-11-27T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced6748353"
+    },
+    "title": "🌟실시간 보컬 실력 미쳐버린 궁극기 #QWER #시연 EP.5 | 코없코",
+    "url": "https://youtu.be/nBejZDNtFd4",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-11-29T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecf04056605a9445e0d2"
+    },
+    "title": "QWER의 첫 화보촬영..? l 'MAPS' Behind",
+    "url": "https://youtu.be/LvN-7ON7iqI",
+    "iconImg": "https://i.ytimg.com/vi/LvN-7ON7iqI/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-11-30T09:00:24.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced6748354"
+    },
+    "title": "(QWER / Idol_Challenge Ep-2) 별처럼 빛나게 기부 100% 성공했드아 ★★ (ENG sub)",
+    "url": "https://youtu.be/WV89tVfLw1w",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-12-01T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecee4056605a9445e0d0"
+    },
+    "title": "잠든 마젠타 몰래 ASMR ㅋㅋㅋㅋㅋ 이거 꿈인가?ㅋㅋㅋ",
+    "url": "https://youtu.be/8RIGpLsimlA",
+    "iconImg": "https://i.ytimg.com/vi/8RIGpLsimlA/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-12-03T03:00:04.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aece44056605a9445e0ce"
+    },
+    "title": "QWER의 첫 휴가 V-log",
+    "url": "https://youtu.be/-mVcxyJLDbc",
+    "iconImg": "https://i.ytimg.com/vi/-mVcxyJLDbc/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-12-10T03:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aece34056605a9445e0cc"
+    },
+    "title": "QWER 첫 음악방송 출연?!",
+    "url": "https://youtu.be/5G4oZbKHwkQ",
+    "iconImg": "https://i.ytimg.com/vi/5G4oZbKHwkQ/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-12-11T11:00:04.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aece04056605a9445e0ca"
+    },
+    "title": "QWER x DAZED KOREA l Concept Film",
+    "url": "https://youtu.be/CM_l_TY1Jqo",
+    "iconImg": "https://i.ytimg.com/vi/CM_l_TY1Jqo/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-12-13T09:00:03.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecdf4056605a9445e0c8"
+    },
+    "title": "게임속으로 들어간 QWER..?! l 'DAZED KOREA' Behind",
+    "url": "https://youtu.be/s6KV3oTiRtw",
+    "iconImg": "https://i.ytimg.com/vi/s6KV3oTiRtw/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-12-14T09:00:39.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecde4056605a9445e0c6"
+    },
+    "title": "QWER 'WONDERLIVET' live l 원더리벳 콘서트 Full ver.",
+    "url": "https://youtu.be/Lro0ZTU-1e4",
+    "iconImg": "https://i.ytimg.com/vi/Lro0ZTU-1e4/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-12-17T09:00:23.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecda4056605a9445e0c4"
+    },
+    "title": "올해의 마지막 콘서트!! 내년엔 혹시 단콘..? l 'WONDERLIVET' behind",
+    "url": "https://youtu.be/u1hlgA-ieIE",
+    "iconImg": "https://i.ytimg.com/vi/u1hlgA-ieIE/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-12-21T09:00:40.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced6748355"
+    },
+    "title": "발로란트에서는 불협화음도 괜찮아 뭐 문제가 되…려나? // 현실듀오 케미폭VAL EP1 - 발로란트",
+    "url": "https://youtu.be/NwykkwqBliE",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-12-22T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced6748356"
+    },
+    "title": "[ENG SUB] [밥묵자] 홍단이, 마징가, 양념치킨, 그리고 개인기 자판기 (feat. QWER)",
+    "url": "https://youtu.be/Td76WiOQyQM",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-12-23T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecd94056605a9445e0c2"
+    },
+    "title": "Santa Tell me - Ariana Grande (SiYeon Cover) l Merry Christmas❤️",
+    "url": "https://youtu.be/AtpNls8CZhA",
+    "iconImg": "https://i.ytimg.com/vi/AtpNls8CZhA/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-12-24T03:00:05.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecd94056605a9445e0c0"
+    },
+    "title": "예..? 차트인하면 입대요..? l QWER 차트인 공약 발표",
+    "url": "https://youtu.be/Idelz1kluaM",
+    "iconImg": "https://i.ytimg.com/vi/Idelz1kluaM/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-12-26T09:00:23.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced6748357"
+    },
+    "title": "[EAT_SHOW2 EP. 6-1] 치팅데이 QWER과 돈부리 정복 완👊 눈 떠보니 여기가 일본?! | 게임의 왕 먹어보쇼",
+    "url": "https://youtu.be/-hOwIWrvcZY",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-12-29T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecd34056605a9445e0be"
+    },
+    "title": "QWER - 2024년 새해인사🐉 (2024 New Year's Greetings)",
+    "url": "https://youtu.be/f90p8MrqjaY",
+    "iconImg": "https://i.ytimg.com/vi/f90p8MrqjaY/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2024-01-01T03:00:25.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecd34056605a9445e0bc"
+    },
+    "title": "QWER 이시연 혼자 솔로 데뷔(?) 합니다  l 시요이키우기 EP0",
+    "url": "https://youtu.be/O3hHdKQbrjo",
+    "iconImg": "https://i.ytimg.com/vi/O3hHdKQbrjo/hqdefault.jpg",
+    "tag": "sym",
+    "uploadDate": {
+      "$date": "2024-01-04T09:00:02.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecd34056605a9445e0ba"
+    },
+    "title": "경서, 차트1위 역주행에 대한 조사 l 아저씨 누군데요 EP1",
+    "url": "https://youtu.be/o7Wp07y5k14",
+    "iconImg": "https://i.ytimg.com/vi/o7Wp07y5k14/hqdefault.jpg",
+    "tag": "sym",
+    "uploadDate": {
+      "$date": "2024-01-07T03:00:20.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecd34056605a9445e0b8"
+    },
+    "title": "KCM, 정지소님과 팔토시 듀엣(?) 후 친분에 대한 조사 l 아저씨 누군데요 EP2",
+    "url": "https://youtu.be/wTHYJh4hYMI",
+    "iconImg": "https://i.ytimg.com/vi/wTHYJh4hYMI/hqdefault.jpg",
+    "tag": "sym",
+    "uploadDate": {
+      "$date": "2024-01-14T09:00:38.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecd34056605a9445e0b6"
+    },
+    "title": "Crush! - xooos | Cover by CHODAN X SIYEON",
+    "url": "https://youtu.be/YW1WA2y14YI",
+    "iconImg": "https://i.ytimg.com/vi/YW1WA2y14YI/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2024-01-17T09:00:02.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecd34056605a9445e0b4"
+    },
+    "title": "그루비룸, QWER 멤버에게 몰래 DM 보낸 것에 대한 조사 l 아저씨 누군데요 EP3",
+    "url": "https://youtu.be/hkdR9z3nFGA",
+    "iconImg": "https://i.ytimg.com/vi/hkdR9z3nFGA/hqdefault.jpg",
+    "tag": "sym",
+    "uploadDate": {
+      "$date": "2024-01-21T09:00:34.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecd14056605a9445e0b2"
+    },
+    "title": "릴러말즈랑 고말숙 무슨 사이인데? l 이시연의 이작가야 EP1",
+    "url": "https://youtu.be/oZ5R4rQPmjA",
+    "iconImg": "https://i.ytimg.com/vi/oZ5R4rQPmjA/hqdefault.jpg",
+    "tag": "sym",
+    "uploadDate": {
+      "$date": "2024-01-23T10:00:15.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aeccf4056605a9445e0b0"
+    },
+    "title": "빠니보틀, 결혼계획(?)에 대한 조사 l 아저씨 누군데요 EP4",
+    "url": "https://youtu.be/ATOXEElMAOA",
+    "iconImg": "https://i.ytimg.com/vi/ATOXEElMAOA/hqdefault.jpg",
+    "tag": "sym",
+    "uploadDate": {
+      "$date": "2024-01-28T03:00:07.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecce4056605a9445e0ae"
+    },
+    "title": "[QWER]타마고프로덕션 공식라이브",
+    "url": "https://youtu.be/4F06nvmJcl4",
+    "iconImg": "https://i.ytimg.com/vi/4F06nvmJcl4/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2024-01-28T12:58:48.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecce4056605a9445e0ac"
+    },
+    "title": "처음뵙는데 누구시라구요..? l 이시연의 이작가야 EP2",
+    "url": "https://youtu.be/Blzlu0ku2e4",
+    "iconImg": "https://i.ytimg.com/vi/Blzlu0ku2e4/hqdefault.jpg",
+    "tag": "sym",
+    "uploadDate": {
+      "$date": "2024-01-31T09:00:09.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecce4056605a9445e0aa"
+    },
+    "title": "[QWER] 8시 계란x히나 '룩삼'님 초대석",
+    "url": "https://youtu.be/DsviOkegh7Y",
+    "iconImg": "https://i.ytimg.com/vi/DsviOkegh7Y/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2024-02-01T12:17:08.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecce4056605a9445e0a8"
+    },
+    "title": "이라온, 400만 유튜버의 은밀한 취미(?)에 대한 조사 l 아저씨 누군데요 EP5",
+    "url": "https://youtu.be/u7VfZcS6tRY",
+    "iconImg": "https://i.ytimg.com/vi/u7VfZcS6tRY/hqdefault.jpg",
+    "tag": "sym",
+    "uploadDate": {
+      "$date": "2024-02-04T03:00:36.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aeccd4056605a9445e0a6"
+    },
+    "title": "QWER 오피셜 중대발표(?)",
+    "url": "https://youtu.be/aZLFkiLtCQY",
+    "iconImg": "https://i.ytimg.com/vi/aZLFkiLtCQY/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2024-02-06T09:00:24.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced6748358"
+    },
+    "title": "드디어 만났다 지하탁구 최강전! 과연 승자는? (feat. 쵸단)",
+    "url": "https://youtu.be/X__j-A2Oiks",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-02-07T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aeccd4056605a9445e0a2"
+    },
+    "title": "Good Bye Bye - 토미오카 아이 l Cover by QWER",
+    "url": "https://youtu.be/BmX_BTFm9kY",
+    "iconImg": "https://i.ytimg.com/vi/BmX_BTFm9kY/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2024-02-08T09:00:08.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aeccd4056605a9445e0a4"
+    },
+    "title": "일본에 보내달랬지 버려달랬냐고.. l 일본에 간 QWER 1화",
+    "url": "https://youtu.be/XHC7sQsvyWw",
+    "iconImg": "https://i.ytimg.com/vi/XHC7sQsvyWw/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2024-02-08T09:00:20.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aeccd4056605a9445e0a0"
+    },
+    "title": "타마고 프로덕션 라이브 스트리밍 중",
+    "url": "https://youtu.be/cAwXIMWd6bw",
+    "iconImg": "https://i.ytimg.com/vi/cAwXIMWd6bw/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2024-02-09T12:42:24.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aeccd4056605a9445e09e"
+    },
+    "title": "'룩삼'님과 정해보는 QWER의 미래(?)",
+    "url": "https://youtu.be/oPMPxUkpCgo",
+    "iconImg": "https://i.ytimg.com/vi/oPMPxUkpCgo/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2024-02-11T03:00:34.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aeccb4056605a9445e09c"
+    },
+    "title": "사라진 멤버들.. l 일본에 간 QWER 2화",
+    "url": "https://youtu.be/D-Hn7ZzxDkI",
+    "iconImg": "https://i.ytimg.com/vi/D-Hn7ZzxDkI/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2024-02-16T09:00:14.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aeccb4056605a9445e09a"
+    },
+    "title": "나는 아픈 건 딱 질색이니까 - (여자)아이들((G)I-DLE) l Cover by QWER",
+    "url": "https://youtu.be/RP82sFbZqB8",
+    "iconImg": "https://i.ytimg.com/vi/RP82sFbZqB8/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2024-02-18T03:00:27.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced6748359"
+    },
+    "title": "숨 멎게 하는 플러팅 현장! 쵸단&마젠타에게 빠졌어요❤️플러팅 지옥 [QWER] EP.05",
+    "url": "https://youtu.be/RSWXCaElqPw",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2024-02-23T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecc64056605a9445e098"
+    },
+    "title": "퇴사 마려운 MZ의 회사 생활 | '나는 아픈 건 딱 질색이니까' Behind",
+    "url": "https://youtu.be/ywiDLPf-ZwQ",
+    "iconImg": "https://i.ytimg.com/vi/ywiDLPf-ZwQ/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2024-02-25T03:00:37.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced674835a"
+    },
+    "title": "눈 떠보니, 인기 아이돌 밴드 멤버라면?! 👀🎸💥l 쵸단 X 마젠타 X 히나 X 시연 QWER 냉터뷰",
+    "url": "https://youtu.be/3lk6EKkSR74",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-02-29T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecc64056605a9445e096"
+    },
+    "title": "서울 패션위크에 나타난 QWER",
+    "url": "https://youtu.be/gMvzjH2kGRI",
+    "iconImg": "https://i.ytimg.com/vi/gMvzjH2kGRI/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2024-03-03T03:00:31.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecc64056605a9445e094"
+    },
+    "title": "[스타시드: 아스니아 트리거 X QWER] Shine All Night (STARSEED Edition)",
+    "url": "https://youtu.be/WErehcuzF_g",
+    "iconImg": "https://i.ytimg.com/vi/WErehcuzF_g/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2024-03-07T09:00:26.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecc64056605a9445e092"
+    },
+    "title": "데뷔 6개월 된 신인 15000명 일본인 앞에서 공연시키기..",
+    "url": "https://youtu.be/wNH0F9G11GI",
+    "iconImg": "https://i.ytimg.com/vi/wNH0F9G11GI/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2024-03-10T03:00:35.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecc04056605a9445e090"
+    },
+    "title": "QWER 군부대 깜짝 위문공연!! 군대에서 신곡을 처음 공개했을때 ㄷㄷ l QWER기습공격",
+    "url": "https://youtu.be/gLybwOyxrow",
+    "iconImg": "https://i.ytimg.com/vi/gLybwOyxrow/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-03-17T03:00:30.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecbd4056605a9445e08e"
+    },
+    "title": "QWER '고민중독' M/V Teaser #1",
+    "url": "https://youtu.be/CFHgjLtrgWw",
+    "iconImg": "https://i.ytimg.com/vi/CFHgjLtrgWw/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-03-19T10:00:09.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecbc4056605a9445e08c"
+    },
+    "title": "QWER '고민중독' M/V Teaser #2",
+    "url": "https://youtu.be/uE3OrYvjzvE",
+    "iconImg": "https://i.ytimg.com/vi/uE3OrYvjzvE/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-03-21T09:00:42.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecbc4056605a9445e08a"
+    },
+    "title": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭] 돈 벌기 힘들다.. l 𝐐𝐖𝐄𝐑 𝟑𝐬𝐨𝐧𝐠𝐬 + 𝟏𝐧𝐞𝐰 𝐬𝐨𝐧𝐠",
+    "url": "https://youtu.be/gD8A-nhuGcE",
+    "iconImg": "https://i.ytimg.com/vi/gD8A-nhuGcE/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-03-24T03:00:21.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced674835b"
+    },
+    "title": "엠Z세대vs돼Z세대 태국 요리 먹으면서 하나되기루 (Feat.qwer 쵸단, 마젠타) | 낮술하기루 EP.21",
+    "url": "https://youtu.be/IM_Euzzu3gc",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-03-27T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced674835c"
+    },
+    "title": "QWER... 그리고 T",
+    "url": "https://youtu.be/_TBGcoYvzLQ",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-03-28T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecbc4056605a9445e088"
+    },
+    "title": "QWER 1st Mini Album 'MANITO(마니또)' HIGHLIGHT MEDLEY",
+    "url": "https://youtu.be/h-jz2B92q98",
+    "iconImg": "https://i.ytimg.com/vi/h-jz2B92q98/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-03-28T09:00:36.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecbc4056605a9445e086"
+    },
+    "title": "QWER '고민중독' M/V Teaser #3",
+    "url": "https://youtu.be/nVZL4-_zkJw",
+    "iconImg": "https://i.ytimg.com/vi/nVZL4-_zkJw/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-03-29T09:04:27.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecba4056605a9445e084"
+    },
+    "title": "QWER '고민중독' M/V Teaser #4",
+    "url": "https://youtu.be/Yt5wJi15ivo",
+    "iconImg": "https://i.ytimg.com/vi/Yt5wJi15ivo/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-03-30T09:00:03.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecb94056605a9445e082"
+    },
+    "title": "QWER 스쿨어택중 전교생 앞에서 공개 고백하는 남학생?! | QWER기습공격",
+    "url": "https://youtu.be/JfnwPPmUvtc",
+    "iconImg": "https://i.ytimg.com/vi/JfnwPPmUvtc/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-03-31T03:00:04.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecb74056605a9445e080"
+    },
+    "title": "QWER 고민중독 Official MV",
+    "url": "https://youtu.be/ImuWa3SJulY",
+    "iconImg": "https://i.ytimg.com/vi/ImuWa3SJulY/hqdefault.jpg",
+    "tag": "mv",
+    "uploadDate": {
+      "$date": "2024-04-01T09:00:22.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced674835e"
+    },
+    "title": "QWER 최초 출연🔥+5템포 +9키업 직접 도전 클라스 인증",
+    "url": "https://youtu.be/UDOxvnQRDHE",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-04-02T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecb34056605a9445e07e"
+    },
+    "title": "[QWER] 미니 1집 컴백라이브!! 내가 너의 마니또💙💜",
+    "url": "https://youtu.be/kb-n9c8_vuA",
+    "iconImg": "https://i.ytimg.com/vi/kb-n9c8_vuA/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-03T10:40:04.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced674835f"
+    },
+    "title": "미미미누님, 왜 쵸단님만 봐요? QWER 최애들 사이에서 고민중독 걸려버림 | 인기인가요 EP.5",
+    "url": "https://youtu.be/EXvsyYAtUxQ",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-04-04T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecb04056605a9445e07c"
+    },
+    "title": "쏟아지는 눈물 멈출 수가 없을까💦 | '고민중독' MV Reaction",
+    "url": "https://youtu.be/5-0gXfYBnTc",
+    "iconImg": "https://i.ytimg.com/vi/5-0gXfYBnTc/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-04T09:00:07.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced6748360"
+    },
+    "title": "[ENG] 300만 유튜버가 만든 국가 권력 급 아이돌 걸밴드가 대학교에 등장하면 생기는 일!? | 전부 노래 잘함 Ep.98",
+    "url": "https://youtu.be/gZF1G6QeE7E",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-04-05T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecad4056605a9445e07a"
+    },
+    "title": "QWER '고민중독 (T.B.H)' MV Behind The Scenes",
+    "url": "https://youtu.be/uYtf0BW4aI0",
+    "iconImg": "https://i.ytimg.com/vi/uYtf0BW4aI0/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-06T09:00:07.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aecac4056605a9445e078"
+    },
+    "title": "QWER '고민중독' Band Practice | QWER Practice",
+    "url": "https://youtu.be/AESHMwgOUk4",
+    "iconImg": "https://i.ytimg.com/vi/AESHMwgOUk4/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-07T03:00:04.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced6748361"
+    },
+    "title": "❤너를 많이 좋아한단 말이야 #QWER #시연 #마젠타 EP.14 | 코없코",
+    "url": "https://youtu.be/REPANmtbHHc",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-04-07T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced6748366"
+    },
+    "title": "딸내미 자취방 습격.. 잘 살고 있을까?",
+    "url": "https://youtu.be/E7oWzxtYZs8",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-04-09T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aeca74056605a9445e076"
+    },
+    "title": "QWER '고민중독(T.B.H)' STAGE CAM | 'MANITO' SHOWCASE",
+    "url": "https://youtu.be/mbWrptRLa8M",
+    "iconImg": "https://i.ytimg.com/vi/mbWrptRLa8M/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-10T09:00:36.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aeca64056605a9445e074"
+    },
+    "title": "QWER '대관람차(Ferris Wheel)' STAGE CAM | 'MANITO' SHOWCASE",
+    "url": "https://youtu.be/O6XNd_ISPsE",
+    "iconImg": "https://i.ytimg.com/vi/O6XNd_ISPsE/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-11T09:00:04.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aeca54056605a9445e072"
+    },
+    "title": "QWER '불꽃놀이(Make Our Highlight)' STAGE CAM | 'MANITO' SHOWCASE",
+    "url": "https://youtu.be/H7K9NuM2TTc",
+    "iconImg": "https://i.ytimg.com/vi/H7K9NuM2TTc/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-12T09:00:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced674835d"
+    },
+    "title": "[원본 공개]QWER 시요밍 첫 출연 +5배속 +9키업 원테이크 클라스",
+    "url": "https://youtu.be/u9BGREZlRa8",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-04-14T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aeca24056605a9445e070"
+    },
+    "title": "나 냥뇽녕냥인데 개추 눌렀다",
+    "url": "https://youtu.be/wDW4JNejMCk",
+    "iconImg": "https://i.ytimg.com/vi/wDW4JNejMCk/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-17T09:30:24.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced6748362"
+    },
+    "title": "[EN]🎸 완전체 출격!🥁 QWER 숙소 탈탈 털어봤습니다 [쇼미더클로젯2 EP.23]",
+    "url": "https://youtu.be/9xbHv1Kjtaw",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-04-19T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec9b4056605a9445e06e"
+    },
+    "title": "쇼케이스 뿌수고 마젠타 허리도 뿌쉈다",
+    "url": "https://youtu.be/M8G6N-wD6PU",
+    "iconImg": "https://i.ytimg.com/vi/M8G6N-wD6PU/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-19T09:00:30.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec954056605a9445e06c"
+    },
+    "title": "꽁꽁 얼어붙은 학교 위로 QWER이 걸어갑니다🐰 l QWER 'MANITO' Jacket Shooting Behind",
+    "url": "https://youtu.be/q2yt1YL0kL8",
+    "iconImg": "https://i.ytimg.com/vi/q2yt1YL0kL8/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-21T03:00:34.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec924056605a9445e06a"
+    },
+    "title": "QWER - '대관람차 (Ferris Wheel)' l LIVE CLIP",
+    "url": "https://youtu.be/t1uz-n3BFmQ",
+    "iconImg": "https://i.ytimg.com/vi/t1uz-n3BFmQ/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-28T03:00:36.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced6748363"
+    },
+    "title": "QWER과 10M 초대형 떡볶이 만들어 먹었습니다!😀",
+    "url": "https://youtu.be/MXmVnyz4Uws",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-04-29T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec924056605a9445e068"
+    },
+    "title": "고민중독 : 청춘록(靑春錄) l 예고편",
+    "url": "https://youtu.be/RLDdYSygbMs",
+    "iconImg": "https://i.ytimg.com/vi/RLDdYSygbMs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-30T11:30:46.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced6748364"
+    },
+    "title": "[ENG SUB] [말쑥한꼰대희 EP.5] 소.용.돌.이.쳐 어지럽다구! 고민중독에 빠진 꼰대희와 고말숙 (feat. QWER)",
+    "url": "https://youtu.be/lwWjFYlqFdU",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-05-01T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec8e4056605a9445e066"
+    },
+    "title": "QWER 팝업중독 와야겠지?",
+    "url": "https://youtu.be/q662TYExvDg",
+    "iconImg": "https://i.ytimg.com/vi/q662TYExvDg/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-05-01T13:36:47.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec8b4056605a9445e064"
+    },
+    "title": "고민중독 : 청춘록 (靑春錄) l 단편 뮤지컬 영화",
+    "url": "https://youtu.be/Jdbh0w-KnaE",
+    "iconImg": "https://i.ytimg.com/vi/Jdbh0w-KnaE/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-05-03T10:00:05.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec814056605a9445e062"
+    },
+    "title": "나랑 같이 밴드부 할래..?",
+    "url": "https://youtu.be/VKn-8w-PJxs",
+    "iconImg": "https://i.ytimg.com/vi/VKn-8w-PJxs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-05-12T03:00:29.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec814056605a9445e060"
+    },
+    "title": "QWER 시연 x 헌서 '고민중독' MASHUP",
+    "url": "https://youtu.be/HtlYRfQzwIs",
+    "iconImg": "https://i.ytimg.com/vi/HtlYRfQzwIs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-05-15T09:00:20.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec804056605a9445e05e"
+    },
+    "title": "QWER 이번에는 웨딩어택?! 결혼식장에 깜짝 등장!! l QWER기습공격",
+    "url": "https://youtu.be/HYMjxpORmTA",
+    "iconImg": "https://i.ytimg.com/vi/HYMjxpORmTA/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-05-19T03:00:14.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec804056605a9445e05c"
+    },
+    "title": "[QWER] '고민중독' 콘테스트 1등은 누구..? 두구두구",
+    "url": "https://youtu.be/rIt77zk7Of0",
+    "iconImg": "https://i.ytimg.com/vi/rIt77zk7Of0/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-05-19T18:55:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7f4056605a9445e05a"
+    },
+    "title": "생방송중에 봐버렸습니다..",
+    "url": "https://youtu.be/BZAszYTt7BM",
+    "iconImg": "https://i.ytimg.com/vi/BZAszYTt7BM/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-05-26T03:00:04.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7f4056605a9445e058"
+    },
+    "title": "[QWER] ‘악어의 놀이터2’ 온라인 콘서트 현장 생중계!!💙",
+    "url": "https://youtu.be/f9pVyjGXNDk",
+    "iconImg": "https://i.ytimg.com/vi/f9pVyjGXNDk/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-05-26T15:13:45.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666af8c7fb32f4ced6748368"
+    },
+    "title": "냥뇽녕냥 자취방 최초 공개.. 잘 살고 있을까?",
+    "url": "https://youtu.be/dgJnk5TrgmE",
+    "iconImg": "https://i.ytimg.com/vi/ldvMUXVJP7Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-05-30T08:30:11.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7f4056605a9445e056"
+    },
+    "title": "대기실에서 맨스티어 기강(?) 잡았습니다.. l 악어의놀이터2 콘서트 비하인드",
+    "url": "https://youtu.be/cGrT8m00qmY",
+    "iconImg": "https://i.ytimg.com/vi/cGrT8m00qmY/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-05-30T09:00:34.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7e4056605a9445e054"
+    },
+    "title": "QWER 대학축제의 비밀 l 대학축제 비하인드",
+    "url": "https://youtu.be/piXpCZApzfc",
+    "iconImg": "https://i.ytimg.com/vi/piXpCZApzfc/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-06-02T03:00:29.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7c4056605a9445e052"
+    },
+    "title": "SODA라는 노래를 발매했더니.. l Mountain DEW Making Film",
+    "url": "https://youtu.be/1fZ_Np3GUTE",
+    "iconImg": "https://i.ytimg.com/vi/1fZ_Np3GUTE/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-06-06T03:00:02.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "손에 피가나도 고연(?)바르고 연습한 대학축제..! l 고려대학교 입실렌티 비하인드",
+    "url": "https://youtu.be/Nri4Qv5iKHs",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-06-09T03:00:21.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "#abcdefu 부르러 온 세상 신선한 조합 #GAYLE #시연 EP.21 | 코없코",
+    "url": "https://youtu.be/TDDfJ83gbKM",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-06-14T18:00:21.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 쵸단 마젠타 히나 시연 '그룹 첫 홍보대사 됐어요' (섬의 날 홍보대사 위촉식)",
+    "url": "https://youtu.be/xmhYB-K9Qg4",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-06-14T18:20:21.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 쵸단 4K직캠 '고민중독(T.B.H)' l 1st Mini Album 'MANITO' SHOWCASE",
+    "url": "https://youtu.be/oIvdWhEAM04",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-04T07:17:22Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 시연 4K직캠 '고민중독(T.B.H)' l 1st Mini Album 'MANITO' SHOWCASE",
+    "url": "https://youtu.be/oV5xwDHf76k",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-04T07:17:27Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 히나 4K직캠 '고민중독(T.B.H)' l 1st Mini Album 'MANITO' SHOWCASE",
+    "url": "https://youtu.be/a-5Eg7jt5KU",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-04T07:17:32Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 마젠타 4K직캠 '고민중독(T.B.H)' l 1st Mini Album 'MANITO' SHOWCASE",
+    "url": "https://youtu.be/V8TFvTxn5IU",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-04T07:17:23Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 히나 4K직캠 '대관람차' l 1st Mini Album 'MANITO' SHOWCASE",
+    "url": "https://youtu.be/s2pvlRAagIU",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-08T06:11:55Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 쵸단 4K직캠 '대관람차' l 1st Mini Album 'MANITO' SHOWCASE",
+    "url": "https://youtu.be/eUXxzs3MMKU",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-08T06:11:46Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 시연 4K직캠 '대관람차' l 1st Mini Album 'MANITO' SHOWCASE",
+    "url": "https://youtu.be/MIDJvIpe1x8",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-08T06:12:00Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 마젠타 4K직캠 '대관람차' l 1st Mini Album 'MANITO' SHOWCASE",
+    "url": "https://youtu.be/1wqrnuf7U0Q",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-08T06:11:50Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 마젠타 4K직캠 '불꽃놀이' l 1st Mini Album 'MANITO' SHOWCASE",
+    "url": "https://youtu.be/K2vcjqwF4Oo",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-09T04:00:11Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 쵸단 4K직캠 '불꽃놀이' l 1st Mini Album 'MANITO' SHOWCASE",
+    "url": "https://youtu.be/B0c5PxQjpGM",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-09T04:00:09Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 히나 4K직캠 '불꽃놀이' l 1st Mini Album 'MANITO' SHOWCASE",
+    "url": "https://youtu.be/LVpHmibb1s0",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-09T04:00:15Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 시연 4K직캠 '불꽃놀이' l 1st Mini Album 'MANITO' SHOWCASE",
+    "url": "https://youtu.be/5edNYDdkfqg",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-04-09T04:00:18Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[4K] QWER 건국대학교 축제 직캠 풀버전 l 240523 Full Cam",
+    "url": "https://youtu.be/Y_djUWIybMo",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-05-23T18:11:34Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[4K] QWER 영남대학교 축제 '고민중독' 무대 직캠 l 240524 뒷캠",
+    "url": "https://youtu.be/JGuNgYuek9o",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-05-25T03:00:07Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[4K] QWER 조선대학교 축제 직캠 풀버전 l 240527 STAGE CAM",
+    "url": "https://youtu.be/cjV15sf29T8",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-05-28T11:07:54Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[4K] QWER '고민중독' 쵸단 x 마젠타 직캠 l 합주실 CAM",
+    "url": "https://youtu.be/cpSkqnMeHPU",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-06-14T13:25:54Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER - 별의 하모니 / Discord (LIVE)｜OUR STAGE",
+    "url": "https://youtu.be/Ieb8IOiFfhk",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-11-03T13:25:54Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER - 고민중독 / 대관람차 (LIVE)｜OUR STAGE",
+    "url": "https://youtu.be/QonXUELzeRw",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-04-03T13:25:54Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[전원출연]QWER에게 디스코드 +5템포 +10키업을 묻다 with 혜다",
+    "url": "https://youtu.be/jpuI0AkcEnQ",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-01-11T13:25:54Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "인도네시아 아이도루 쵸단",
+    "url": "https://youtu.be/1A3PKh6VXK8",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2023-06-22T13:25:54Z"
+    },
+    "__v": 0
+  },
+
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "냥뇽녕냥이 트위치에...?💜 시청자 16000명 레전드 방송",
+    "url": "https://youtu.be/xk184t9UDpo",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-07-31T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "사람 손가락이 맛동산이라고?ㅋㅋㅋ",
+    "url": "https://youtu.be/dr9z8dCtV8U",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-08-08T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "아이도루 연습생 사생활 강제 공개",
+    "url": "https://youtu.be/EQRW7nNDYrk",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-08-29T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "에일리님을 만나고 90도 달라진 금쪽이 시요밍 ㅋㅋㅋㅋ",
+    "url": "https://youtu.be/Kl5s5McztZE",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-09-05T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "수상할 정도로 키가 큰 막내 냥뇽녕냥과 바보 언니들...",
+    "url": "https://youtu.be/JckLNRwdlfc",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-09-09T13:25:54Z"
+    }
+  },
+
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "연습실에서 도대체 뭐하는거야.. Q...💙",
+    "url": "https://youtu.be/dv5JKvSv8vE",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-09-23T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "??? : 쵸단 또 속네 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "url": "https://youtu.be/FEpxF6NdaTQ",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-10-14T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "구독자만 1천만... '가짜 사나이'가 만든 '진짜' 걸밴드 QWER",
+    "url": "https://youtu.be/2fTRMG8Nbc4",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-10-19T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "MBC 우왁굳 케플러 비비지의 QWER데뷔곡 찐반응.. - 리액션 모음",
+    "url": "https://youtu.be/i3K6qxWXI4o",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-11-05T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "무슨 선물을 받았길래....",
+    "url": "https://youtu.be/telccpFJ_pg",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-11-07T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER '수수께끼 다이어리(Secret Diary)' Practice Day Special Clip",
+    "url": "https://youtu.be/MPK7oP1--4s",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-11-19T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "(QWER / Idol_Challenge) 조회수 폭발?! 기부10000%예감?! (두근두근~) QWER 최애의 아이들 (ENG sub)",
+    "url": "https://youtu.be/ldvMUXVJP7Q",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-11-20T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER - DISCORD I MAPSQUARE Music",
+    "url": "https://youtu.be/U07zL1KUMgg",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWER_etc",
+    "uploadDate": {
+      "$date": "2023-12-05T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 'Q'는 평소 드럼 연습실에서 뭘 할까?",
+    "url": "https://youtu.be/zXehloNQhKc",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-12-16T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "쵸단님 연습 안하세요? (w.부기드럼)",
+    "url": "https://youtu.be/GIK_A61F9QM",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-12-21T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "엄마마냥 QWER 멤버들을 대하는 마젠타 모음집ㅋㅋㅋㅋㅋ",
+    "url": "https://youtu.be/EK4ip7BYYOA",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-12-22T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "쵸단과 시요밍이 깜짝 놀란 QWER - Discord Cover 모음",
+    "url": "https://youtu.be/LDfT_YJ8kNE",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-12-24T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[EAT_SHOW2 EP. 6-2] 味친 비주얼 베트남 하노이 음식🤤 QWER의 통아저씨 게임을 곁들인..🤷 | 게임의왕 먹어보쇼",
+    "url": "https://youtu.be/rRdzxczIPPg",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-12-29T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[EAT_SHOW2 EP.6-3] #디스코드 챌린지와 맞바꾼 숙성회🐟 제철 맞은 겨울 대방어+석화=성공적!! | 게임의 왕 먹어보쇼",
+    "url": "https://youtu.be/Rj_pH30NRKM",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": { "$date": "2023-12-29T13:25:54Z" }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "논란이 되겠는걸? QWER과 함께하는 겨울 음식 월드컵",
+    "url": "https://youtu.be/C7Spm-DMBfo",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2023-12-30T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "리더의 눈물😢",
+    "url": "https://youtu.be/jU12ahnbIwI",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-01-09T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "방송끄고도 꼰대희를 정색시킨 이시연 마젠타 냥뇽 쵸단 레전드 ㅋㅋㅋㅋ",
+    "url": "https://youtu.be/Q3SrawiRdB4",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-01-12T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "두 사람은 DISCORD",
+    "url": "https://youtu.be/QyhwpX5dQT4",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-01-19T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "경*이시연우주여행 확정*축",
+    "url": "https://youtu.be/22aSS3IBB20",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-01-23T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "공연 현장의 공간감과 현장감을 완벽하게 담아내다✨ │ FX3 │ How to Cine with 타마고 프로덕션",
+    "url": "https://youtu.be/WaV5ZLy1r9g",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-01-25T13:25:54Z"
+    }
+  },
+
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "홍단 아니고!!! 쵸단이라고요!!!!",
+    "url": "https://youtu.be/y0Y7R6o2azc",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-02-15T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "얘들아 아이도루의 체통을 지ㅋ..",
+    "url": "https://youtu.be/hVGV8oU-YSg",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-03-02T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 시연님이 직접 풀어주는 일본 메이드카페 알바썰 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "url": "https://youtu.be/wfRKP9adlwQ",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-03-05T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "번식하기 위해서요 (실제로 한말)",
+    "url": "https://youtu.be/7OGm8STmbC0",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-03-06T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "부장님~~~~ 사랑합니다!!!",
+    "url": "https://youtu.be/WHt9ZgCbrTA",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-03-07T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[스타시드: 아스니아 트리거] QWER이 직접 말해주는 비하인드 스토리",
+    "url": "https://youtu.be/ZyCTJN4HPXQ",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-03-08T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "다들 어디 간 거지..?",
+    "url": "https://youtu.be/TBG7W-2jF_g",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-03-09T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "【QWER】ダンスバトル対決！可愛すぎる韓国アーティストvs日本の中高生インフルエンサー🔥【K-pop】",
+    "url": "https://youtu.be/ohyXxRDShQ4",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-03-13T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[4K] 김포공항 출국 4K 직캠 마젠타 | 240233",
+    "url": "https://youtu.be/U0-XapGEo9E",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-03-14T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[생생海] 해군병 700기로 들어올껄〰️🙃 🅢🅤🅡🅟🅡🅘🅢🅔 축하공연🎤(feat. QWER)",
+    "url": "https://youtu.be/mL0M1YRaH8Q",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-03-17T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "🎉큰거왔다.. QR코드 기습 합방 라이브 (스타시드: 아스니아 트리거)",
+    "url": "https://youtu.be/QwQjO9Z6ceQ",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-03-21T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[ENG/Full ver.] 큐더블유이알 QWER '고민중독'(Addiction to Worry) Showcase 쇼케이스 풀영상｜쵸단·마젠타·히나·시연",
+    "url": "https://youtu.be/Huzk27I0u6w",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-04-01T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "🎮QWER 게임키🎮 아니고요, 요즘 대세 ‘걸즈 밴드’ 맞습니다. | QWER에게 집중하다⭐",
+    "url": "https://youtu.be/EXtqAFhEyh0",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-04-03T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "이젠 정말로 큰 일을 내버린 마젠타와 QWER ㄷㄷㄷ",
+    "url": "https://youtu.be/ms6RURYoIi0",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-04-08T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[이벤트🎁] 당신의 마음을 둥-탁! QWER의 절친노트!💖",
+    "url": "https://youtu.be/Q73e7YecFWg",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-04-09T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[아빠의TV] QWER - 고민중독 뮤비 리액션",
+    "url": "https://youtu.be/Vz2i9THfCi8",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-04-09T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "쇼케이스 이후 완전히 연예인이 되어버린 마젠타와 QWER ㄷㄷㄷ",
+    "url": "https://youtu.be/T-F77AoCLsA",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-04-14T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[SUB] 🚨김계란 시청 주의🚨 QWER에게 치팅데이를 줬습니다 | 인싸동 술찌 ep. 12",
+    "url": "https://youtu.be/wrbE-jd1xF0",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-04-17T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER - 고민중독(T.B.H) | 야외녹음실 | Beyond the Studio | 쵸단 마젠타 히나 시연 | LIVE",
+    "url": "https://youtu.be/BXZKO6fIiAM",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-04-23T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "이제 나만 봐🧡",
+    "url": "https://youtu.be/fOwpWLrWx4o",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-04-23T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "전소연님 실물 영접하고 왔습니다!!!!!!!!!!!!!!",
+    "url": "https://youtu.be/opTZ1RUaqD0",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-04-30T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "(ENG) 경력직 아이돌 C의 등장! '고민중독‘인 QWER후배들 고민 해결해 주고 왔습니다!🥁🎸🎤🎶[feat.Q&R of QWER]",
+    "url": "https://youtu.be/B0tcYpjOoOs",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-05-06T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "2024년 05월 06일 1부 | QWER & 김계란 초대석",
+    "url": "https://youtu.be/z4Ybutm7cwQ",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-05-06T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "현직 QWER 베이스입니다",
+    "url": "https://youtu.be/I_ZOsXBn1DQ",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-05-06T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "(EN) 20년 차 아이돌 앞에서 역대급 인생짤 남기고 가는 7개월 차 걸그룹 QWER💫 │ 려욱이의 [인생짤칵📸] Ep.06 QWER",
+    "url": "https://youtu.be/Jp13boNYjKs",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-05-07T14:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "韓国でバズり中！QWERに超接近「Kstyle PARTY」バクステ取材映像をYouTubeプレミア公開",
+    "url": "https://youtu.be/oNAD9R5_wFw",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-05-07T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 히나 (냥뇽녕냥)님 합방!!",
+    "url": "https://youtu.be/S0vqwaTA_cs",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-05-12T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 이시연, 30초만에 즉석 라이브를 해봤더니... | 시요밍, 라이브, 싱크룸라이브, 고민중독, 대관람차",
+    "url": "https://youtu.be/QOzfi5rGY3Q",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-05-13T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "베이스를 놀리는 확실한 방법ㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "url": "https://youtu.be/ZJXm8BNN2JY",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-05-13T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER!! 냥뇽녕냥!! 버튜버 데뷔합니다!!(진짜임)",
+    "url": "https://youtu.be/0P7yJqdmGuk",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-05-15T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "최애의 아이들 QWER 초대석 (with 김계란)",
+    "url": "https://youtu.be/baHEdkq_FQ4",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-05-16T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "침착맨도 못 믿는, 없어야 하는 그룹 QWER?",
+    "url": "https://youtu.be/Jp9BdOP5_-Y",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-05-17T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "매 공연마다 저는 마젠타...ㄷㄷ",
+    "url": "https://youtu.be/5c1q3fNNywE",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-05-19T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "공연 라이브중 음향사고 해명하겠습니다...",
+    "url": "https://youtu.be/-czBUoL0bPs",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-05-21T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "모든 게 바뀌어 버린 마젠타의 선언",
+    "url": "https://youtu.be/_EMQsGkktTY",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-05-26T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "내가 지금까지 이름을 숨겼던 이유",
+    "url": "https://youtu.be/6EDk20DPjAg",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-05-30T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "고려대학교 사랑합니다",
+    "url": "https://youtu.be/Kuz-Mkhy_tw",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-06-05T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "너무 과분한 사랑을 받았습니다...",
+    "url": "https://youtu.be/wA8320nQOhE",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-06-10T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "1년전의 QWER l 최애의아이들 시즌1 요약",
+    "url": "https://youtu.be/HmYmUEiCjlg",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "QWEROrg1",
+    "uploadDate": {
+      "$date": "2024-06-16T13:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[돌리우드] 대본은 거들 뿐.. 미친 애드리브로 촬영장 찢으신 QWER 배우님들 ⎮ EP.03 ⎮ QWER ⎮ DOLLYWOOD | (4K)",
+    "url": "https://youtu.be/5WxE6UsYjxI",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-06-16T14:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "이시연에게 조롱당하는 맏언니",
+    "url": "https://youtu.be/uLJYcIAXV94",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-06-16T15:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "38kg까지 감량했다는 1년차 아이돌이 직접 알려주는 찐 관리방법💖",
+    "url": "https://youtu.be/ZbC1S9_kIOI",
+    "iconImg": "https://i.ytimg.com/vi/Nri4Qv5iKHs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-06-17T15:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "24시간동안 감금된 여자아이돌 l The QWER Show",
+    "url": "https://youtu.be/z4gQOaAM158",
+    "iconImg": "https://i.ytimg.com/vi/z4gQOaAM158/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-06-23T15:25:54Z"
+    }
+  },
+
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 첫 정산..? l 최애의아이들 시즌2 EP0",
+    "url": "https://youtu.be/vs71fEc1sos",
+    "iconImg": "https://i.ytimg.com/vi/vs71fEc1sos/hqdefault.jpg",
+    "tag": "QWEROrg2",
+    "uploadDate": {
+      "$date": "2024-06-30T15:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "테무에서 베이스를 구해봤습니다... 과연?",
+    "url": "https://youtu.be/N8JolRyvKiI",
+    "iconImg": "https://i.ytimg.com/vi/N8JolRyvKiI/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-06-25T15:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "베이스에서 이상한 소리가 납니다.. 도와주세요ㅠ",
+    "url": "https://youtu.be/DTWWNZGAHBY",
+    "iconImg": "https://i.ytimg.com/vi/N8JolRyvKiI/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-06-26T15:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "실명공개후 쏟아지는 댓글을 참을 수 없습니다..",
+    "url": "https://youtu.be/BVppKfGcWsc",
+    "iconImg": "https://i.ytimg.com/vi/BVppKfGcWsc/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-06-30T15:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "멤버별 4인 고민중독 성대모사 ㅋㅋㅋㅋ",
+    "url": "https://youtu.be/bM9805vpTnc",
+    "iconImg": "https://i.ytimg.com/vi/BVppKfGcWsc/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-02T15:25:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 1년만의 숙소 근황과 다음 앨범 준비 l 최애의 아이들 시즌2 EP1",
+    "url": "https://youtu.be/O81Yb9GOcks",
+    "iconImg": "https://i.ytimg.com/vi/O81Yb9GOcks/hqdefault.jpg",
+    "tag": "QWEROrg2",
+    "uploadDate": {
+      "$date": "2024-07-07T12:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "1,200원 정산 사실이냐구요...? 말씀드리겠습니다",
+    "url": "https://youtu.be/GVyMJuMkb-8",
+    "iconImg": "https://i.ytimg.com/vi/GVyMJuMkb/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-07T12:30:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "1열 직관(?) 하고 온 유튜브 팬페스트💙",
+    "url": "https://youtu.be/9l5Mn1_JjkI",
+    "iconImg": "https://i.ytimg.com/vi/9l5Mn1_JjkI/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-08T12:30:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER을 향한 쏟아지는 맘 멈출 수 없어🤍쵸단, 마젠타, 히나, 시연과 함께한 얼음 깨기 인터뷰!",
+    "url": "https://youtu.be/qUPdxm8XTIU",
+    "iconImg": "https://i.ytimg.com/vi/qUPdxm8XTIU/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-08T12:31:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "아이돌 24시간 감금, 미공개 비하인드 공개합니다",
+    "url": "https://youtu.be/hOy2pn0jD9U",
+    "iconImg": "https://i.ytimg.com/vi/hOy2pn0jD9U/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-09T12:31:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[리그 오브 레전드] 'ANIMA POWER - QWER' 티저 l 동물특공대",
+    "url": "https://youtu.be/m-FFdsNO7J8",
+    "iconImg": "https://i.ytimg.com/vi/FFdsNO7J8/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-07-11T18:15:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "ANIMA POWER - QWER | 동물특공대 - 리그 오브 레전드",
+    "url": "https://youtu.be/BLnkLdzlCx4",
+    "iconImg": "https://i.ytimg.com/vi/BLnkLdzlCx4/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-12T18:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[Japan]ANIMA POWER - QWER | 동물특공대 - 리그 오브 레전드",
+    "url": "https://youtu.be/dAVSQ3ixa6c",
+    "iconImg": "https://i.ytimg.com/vi/dAVSQ3ixa6c/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-12T18:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "아희의신스1일차(바보주의)",
+    "url": "https://youtu.be/BRaKaw5xhFE",
+    "iconImg": "https://i.ytimg.com/vi/BRaKaw5xhFE/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-12T02:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER & 허용별 고민중독 최초 대결 +10키 4옥 뚫었습니다..",
+    "url": "https://youtu.be/o9h2_-7i0nA",
+    "iconImg": "https://i.ytimg.com/vi/o9h2_-7i0nA/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-12T20:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "아희의 7월베이스기초 1(시간과정신의방 주의)",
+    "url": "https://youtu.be/UFgoH8LcaHk",
+    "iconImg": "https://i.ytimg.com/vi/o9h2_-7i0nA/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-13T02:26:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "선수로 간택당한 쵸단",
+    "url": "https://youtu.be/rsckn0De84w",
+    "iconImg": "https://i.ytimg.com/vi/rsckn0De84w/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-13T20:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "앨범 내려면 돈.. 벌어야겠지?? l 최애의 아이들 시즌2 EP2",
+    "url": "https://youtu.be/-MaTxtjVLbw",
+    "iconImg": "https://i.ytimg.com/vi/MaTxtjVLbw/hqdefault.jpg",
+    "tag": "QWEROrg2",
+    "uploadDate": {
+      "$date": "2024-07-14T12:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "아희의 베이스워킹기본기2(바보주의)",
+    "url": "https://youtu.be/fcgLxe3dWBk",
+    "iconImg": "https://i.ytimg.com/vi/fcgLxe3dWBk/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-14T22:17:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "큰 실수를 저질렀습니다...",
+    "url": "https://youtu.be/e_cCtb5l_zs",
+    "iconImg": "https://i.ytimg.com/vi/e_cCtb5l_zs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-14T21:17:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "그 때 당시 교복이 이랬던 이유를 말씀드립니다...!",
+    "url": "https://youtu.be/0nFHHfFw3yI",
+    "iconImg": "https://i.ytimg.com/vi/0nFHHfFw3yI/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-16T21:17:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "베이스 기본기 3(바보주의)",
+    "url": "https://youtu.be/-Tl2XCcUJIM",
+    "iconImg": "https://i.ytimg.com/vi/-Tl2XCcUJIM/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-17T05:17:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[EN] QWER 쵸단 & 마젠타가 알려주는 ‘덕후란 무엇인가’ with.키오프 쥴리 & 하늘 [현생님들3 EP.10]",
+    "url": "https://youtu.be/R2Z9j8oH1MA",
+    "iconImg": "https://i.ytimg.com/vi/R2Z9j8oH1MA/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-18T19:17:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "베이스 손붙이는 연습 3(바보주의)",
+    "url": "https://youtu.be/aswztqUMcZg",
+    "iconImg": "https://i.ytimg.com/vi/aswztqUMcZg/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-19T00:17:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "(시청 주의) 바이퍼 선생님의 처음 보는 모습을 볼 수 있습니다",
+    "url": "https://youtu.be/4O_EeqG4XOA",
+    "iconImg": "https://i.ytimg.com/vi/4O_EeqG4XOA/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-19T19:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "요아정? 두바이초콜릿? 소신발언 좀 하겠습니다..",
+    "url": "https://youtu.be/ts1QYxl_zfw",
+    "iconImg": "https://i.ytimg.com/vi/ts1QYxl_zfw/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-20T19:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "자다가 납치당한 아이돌.. l 최애의 아이들 시즌2 EP3",
+    "url": "https://youtu.be/Gq8bm5pLBlk",
+    "iconImg": "https://i.ytimg.com/vi/Gq8bm5pLBlk/hqdefault.jpg",
+    "tag": "QWEROrg2",
+    "uploadDate": {
+      "$date": "2024-07-21T12:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "국내최초 QWER & 허용별에게 고민중독 주인공을 묻다",
+    "url": "https://youtu.be/7Tj95QLiVuk",
+    "iconImg": "https://i.ytimg.com/vi/7Tj95QLiVuk/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-21T20:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "'다른 팀도 다 했어요?🫢'선수들의 챌린지 도전기(feat.QWER) | BNKCAM",
+    "url": "https://youtu.be/hlVaX2CSd-k",
+    "iconImg": "https://i.ytimg.com/vi/hlVaX2CSd-k/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-22T20:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "샵에서 기본기연습1(바보주의)",
+    "url": "https://youtu.be/h7HEIuWNq20",
+    "iconImg": "https://i.ytimg.com/vi/h7HEIuWNq20/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-22T23:30:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "그 시절 냥뇽녕냥의 꿈..💙",
+    "url": "https://youtu.be/8h_vNJvy-0A",
+    "iconImg": "https://i.ytimg.com/vi/8h_vNJvy-0A/hqdefault.jpg",
+    "tag": "QWER_sec",
+    "uploadDate": {
+      "$date": "2024-07-25T18:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "돌아온 수염가득 카더가든 l 최애의 아이들 시즌2 EP4",
+    "url": "https://youtu.be/rrTmlNL2mAY",
+    "iconImg": "https://i.ytimg.com/vi/rrTmlNL2mAY/hqdefault.jpg",
+    "tag": "QWEROrg2",
+    "uploadDate": {
+      "$date": "2024-07-28T12:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "공연준비가많지만 기본기챙기기(바보주의)",
+    "url": "https://youtu.be/4nxdMrPOYAw",
+    "iconImg": "https://i.ytimg.com/vi/4nxdMrPOYAw/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-29T05:53:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "이세계 일일알바생 마젠타",
+    "url": "https://youtu.be/w9x_0fDR2v0",
+    "iconImg": "https://i.ytimg.com/vi/w9x_0fDR2v0/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-30T19:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "제 뱃살 공개합니다...",
+    "url": "https://youtu.be/lorgVmF33KE",
+    "iconImg": "https://i.ytimg.com/vi/lorgVmF33KE/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-01T19:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "바쁜날의 기본기연습 (가족쥬의)",
+    "url": "https://youtu.be/VQNKmA5pfFs",
+    "iconImg": "https://i.ytimg.com/vi/VQNKmA5pfFs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-03T05:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[4K] QWER 펜타포트 락 페스티벌 직캠 풀버전 l 240802 STAGE CAM)",
+    "url": "https://youtu.be/xDTyCpZcStE",
+    "iconImg": "https://i.ytimg.com/vi/xDTyCpZcStE/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-04T01:11:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 펜타포트 뒷이야기 l 최애의 아이들 시즌2 EP5",
+    "url": "https://youtu.be/2ccdccYVoM0",
+    "iconImg": "https://i.ytimg.com/vi/2ccdccYVoM0/hqdefault.jpg",
+    "tag": "QWEROrg2",
+    "uploadDate": {
+      "$date": "2024-08-04T12:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "아이돌이 마이크를 수리하는 방법",
+    "url": "https://youtu.be/inddhR7JcRc",
+    "iconImg": "https://i.ytimg.com/vi/inddhR7JcRc/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-05T20:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "큐떱이 말아주는 성대모사 파티🍀 퍼스널컬러가 애니인 QWER과 한 잔해🤭 | 야간아이돌 EP.03",
+    "url": "https://youtu.be/GRYZ_mWqcHw",
+    "iconImg": "https://i.ytimg.com/vi/inddhR7JcRc/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-08T18:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "그 뒤 숨겨진 비하인드 ㄷㄷ",
+    "url": "https://youtu.be/-d-Kl1p5vg4",
+    "iconImg": "https://i.ytimg.com/vi/inddhR7JcRc/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-08T19:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "다트 대회는 처음인데💛",
+    "url": "https://youtu.be/Q1rsFBYhaxc",
+    "iconImg": "https://i.ytimg.com/vi/Q1rsFBYhaxc/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-09T19:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "할게많더라도 기본기!",
+    "url": "https://youtu.be/pyFQ8IpjKKg",
+    "iconImg": "https://i.ytimg.com/vi/pyFQ8IpjKKg/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-10T10:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "이게 대체 무슨 조합이죠..? l 발로란트 5인뇽 EP1",
+    "url": "https://youtu.be/9SUGtdVcjN0",
+    "iconImg": "https://i.ytimg.com/vi/9SUGtdVcjN0/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-10T10:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "귀신은 QWER을 알까..? l 최애의 아이들 시즌2 EP6",
+    "url": "https://youtu.be/XRUKc8tZ2co",
+    "iconImg": "https://i.ytimg.com/vi/XRUKc8tZ2co/hqdefault.jpg",
+    "tag": "QWEROrg2",
+    "uploadDate": {
+      "$date": "2024-08-11T12:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "쵸단이와 한판 붙었습니다",
+    "url": "https://youtu.be/mH0GuWgX3IM",
+    "iconImg": "https://i.ytimg.com/vi/mH0GuWgX3IM/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-11T19:30:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[4K] 'QWER'이 전하는 JUMF 2024 참여 소감!!",
+    "url": "https://youtu.be/5mzHbCAG9ek",
+    "iconImg": "https://i.ytimg.com/vi/5mzHbCAG9ek/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-13T21:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "페스티벌하고 온날",
+    "url": "https://youtu.be/s7MNxCslXQs",
+    "iconImg": "https://i.ytimg.com/vi/s7MNxCslXQs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-15T02:30:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "이 아이가 밴드라서 다행입니다 l 최애의 아이들 시즌2 EP7",
+    "url": "https://youtu.be/wTRDQ33EOnI",
+    "iconImg": "https://i.ytimg.com/vi/wTRDQ33EOnI/hqdefault.jpg",
+    "tag": "QWEROrg2",
+    "uploadDate": {
+      "$date": "2024-08-16T18:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER - 별의 하모니(Harmony of stars)(Orchestra Ver.) Special Clip",
+    "url": "https://youtu.be/1AhEIaYYoHg",
+    "iconImg": "https://i.ytimg.com/vi/1AhEIaYYoHg/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-18T12:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "오케스트라전 3시간 복습 빨리보기",
+    "url": "https://youtu.be/UIB1HLxvaLM",
+    "iconImg": "https://i.ytimg.com/vi/UIB1HLxvaLM/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-18T18:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "더 인플루언서 뒤풀이에서 도망쳤습니다..",
+    "url": "https://youtu.be/BRDNV4GQCwc",
+    "iconImg": "https://i.ytimg.com/vi/BRDNV4GQCwc/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-19T17:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "넷플릭스 더인플루언서 섭외 논란의 마젠타ㄷㄷ",
+    "url": "https://youtu.be/6YBdIdX7pJc",
+    "iconImg": "https://i.ytimg.com/vi/6YBdIdX7pJc/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-17T17:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "5인뇽팀 폐업위기..?! l 발로란트 5인뇽 EP2",
+    "url": "https://youtu.be/cFU_b3X3ziM",
+    "iconImg": "https://i.ytimg.com/vi/cFU_b3X3ziM/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-22T15:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "쵸단도 경악한 마젠타의 무대사고 돌발행동 ㄷㄷㄷㄷ",
+    "url": "https://youtu.be/rjfaZ_E0sEU",
+    "iconImg": "https://i.ytimg.com/vi/rjfaZ_E0sEU/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-22T19:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "무더위 역대급 미션 성공..😎",
+    "url": "https://youtu.be/X5F5XpvS1fg",
+    "iconImg": "https://i.ytimg.com/vi/X5F5XpvS1fg/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-22T18:00:54Z"
+    }
+  },
+
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "그만 놀리라고 했다.. ㅂㄷㅂㄷ",
+    "url": "https://youtu.be/rU6AKM1g9cg",
+    "iconImg": "https://i.ytimg.com/vi/rU6AKM1g9cg/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-23T19:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "이렇게 하는 거라고 배웠는데?",
+    "url": "https://youtu.be/Lj7I-kpzdJs",
+    "iconImg": "https://i.ytimg.com/vi/Lj7I-kpzdJs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-24T19:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "손 관리하면서 연습 (바보주의)",
+    "url": "https://youtu.be/YEs_hvlsuuc",
+    "iconImg": "https://i.ytimg.com/vi/YEs_hvlsuuc/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-08-24T22:00:54Z"
+    }
+  },
+
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "요즘 이상한 일이 생긴다는 QWER.. l 최애의 아이들 시즌2 EP8",
+    "url": "https://youtu.be/ML98lEopmDY",
+    "iconImg": "https://i.ytimg.com/vi/ML98lEopmDY/hqdefault.jpg",
+    "tag": "QWEROrg2",
+    "uploadDate": {
+      "$date": "2024-08-25T12:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "how to make ‘FAKE IDOL’",
+    "url": "https://youtu.be/mPhu5a79egs",
+    "iconImg": "https://i.ytimg.com/vi/mPhu5a79egs/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-08-28T18:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER '가짜 아이돌' M/V Teaser #1",
+    "url": "https://youtu.be/uEtFpYLAf3E",
+    "iconImg": "https://i.ytimg.com/vi/uEtFpYLAf3E/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-08-30T18:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER '가짜 아이돌' M/V Teaser #2",
+    "url": "https://youtu.be/OYBrkMt8jbI",
+    "iconImg": "https://i.ytimg.com/vi/OYBrkMt8jbI/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-08-31T18:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER '가짜 아이돌' Official MV",
+    "url": "https://youtu.be/JFGRPgYeu38",
+    "iconImg": "https://i.ytimg.com/vi/OYBrkMt8jbI/hqdefault.jpg",
+    "tag": "mv",
+    "uploadDate": {
+      "$date": "2024-09-01T18:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "걸그룹 숙소 최초 방문‼️ 대학 축제 휩쓴 QWER X 김계란, 첫 정산 근황은? | 아침먹고 가2 EP.22",
+    "url": "https://youtu.be/PG_rS44lDpk",
+    "iconImg": "https://i.ytimg.com/vi/PG_rS44lDpk/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-03T18:28:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "대기실에서 이러면 큰일납니다..!",
+    "url": "https://youtu.be/vI5AxbPVjqg",
+    "iconImg": "https://i.ytimg.com/vi/vI5AxbPVjqg/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-01T19:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "마젠타가 컴백을 위해 준비한것들 ㄷㄷㄷ",
+    "url": "https://youtu.be/cwEo0S6-1js",
+    "iconImg": "https://i.ytimg.com/vi/cwEo0S6-1js/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-02T19:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "오늘은 왜 다섯명이죠..? l QWER '가짜 아이돌' MV Behind The Scenes",
+    "url": "https://youtu.be/7OosteYKxEc",
+    "iconImg": "https://i.ytimg.com/vi/7OosteYKxEc/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-09-08T12:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[4K] QWER '가짜 아이돌' 논산 꿈빛나래 페스티벌 직캠 l 240907 STAGE CAM",
+    "url": "https://youtu.be/iSxaIZyRB1s",
+    "iconImg": "https://i.ytimg.com/vi/iSxaIZyRB1s/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-08T12:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "고시원에 산다고 무시당했습니다..",
+    "url": "https://youtu.be/-zFf9klQs4g",
+    "iconImg": "https://i.ytimg.com/vi/-zFf9klQs4g/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-08T19:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "마젠타가 우리 가게 알바생이었어?",
+    "url": "https://youtu.be/JIQXuUHeN6s",
+    "iconImg": "https://i.ytimg.com/vi/JIQXuUHeN6s/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-10T19:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "🚨속보🚨 QWER 히나 솔로 데뷔 선언 [덕통사고EP.0]",
+    "url": "https://youtu.be/8b_Ep-Md2fE",
+    "iconImg": "https://i.ytimg.com/vi/8b_Ep-Md2fE/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-10T20:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "'가짜아이돌'에게 QWER 알고리즘을 묻다(5배속 5키업)",
+    "url": "https://youtu.be/KbFm6nElvpw",
+    "iconImg": "https://i.ytimg.com/vi/KbFm6nElvpw/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-12T21:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "WMC X QWER 콜라보 팝업에서 이라위크, 히나와 깜짝 만남! 선물 교환에서 앨범 언박싱은 덤?!(feat.냥뇽녕냥 실물영접)",
+    "url": "https://youtu.be/wOo9GIcXD1k",
+    "iconImg": "https://i.ytimg.com/vi/wOo9GIcXD1k/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-12T20:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "💿댓글 이벤트📀 QWER 히나의 본 모습을 아시나요? [덕통사고 EP.1]",
+    "url": "https://youtu.be/qopJ6RUNo98",
+    "iconImg": "https://i.ytimg.com/vi/qopJ6RUNo98/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-14T21:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "가짜아이돌fake dol 준비",
+    "url": "https://youtu.be/sv3ezGbbPmU",
+    "iconImg": "https://i.ytimg.com/vi/sv3ezGbbPmU/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-14T03:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 2nd Mini Album 'Algorithm’s Blossom’ HIGHLIGHT MEDLEY",
+    "url": "https://youtu.be/ftU9gDqvTX0",
+    "iconImg": "https://i.ytimg.com/vi/ftU9gDqvTX0/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-09-18T18:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "가짜 아이돌? 진짜 아이돌! [EP QWER]",
+    "url": "https://youtu.be/Ok2NNRV-QUA",
+    "iconImg": "https://i.ytimg.com/vi/Ok2NNRV-QUA/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-18T18:00:53Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "가짜아이돌 뮤비에 숨겨진 이것의 정체는…?",
+    "url": "https://youtu.be/8pBu0dKyR2s",
+    "iconImg": "https://i.ytimg.com/vi/8pBu0dKyR2s/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-18T19:00:53Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "예측불가 티니핑 이름 맞히기 ㅋㅋㅋ",
+    "url": "https://youtu.be/31AlcfMcXeE",
+    "iconImg": "https://i.ytimg.com/vi/31AlcfMcXeE/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-19T19:00:53Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER '내 이름 맑음' Official M/V Teaser #1",
+    "url": "https://youtu.be/1KeqWqavpLc",
+    "iconImg": "https://i.ytimg.com/vi/1KeqWqavpLc/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-09-20T18:00:53Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "베이스 기본기(바보주의)",
+    "url": "https://youtu.be/iOp_--EvIZ0",
+    "iconImg": "https://i.ytimg.com/vi/iOp_--EvIZ0/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-21T01:33:53Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER '내 이름 맑음' Official M/V Teaser #2",
+    "url": "https://youtu.be/6NV00Dp2POs",
+    "iconImg": "https://i.ytimg.com/vi/6NV00Dp2POs/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-09-21T18:00:53Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[4K] QWER '내 이름 맑음' PEPSI FESTA 직캠 l 240922 STAGE CAM",
+    "url": "https://youtu.be/kP19TioxbhQ",
+    "iconImg": "https://i.ytimg.com/vi/kP19TioxbhQ/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-09-22T18:00:53Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER '내 이름 맑음' Official MV",
+    "url": "https://youtu.be/AlirzLFEHUI",
+    "iconImg": "https://i.ytimg.com/vi/AlirzLFEHUI/hqdefault.jpg",
+    "tag": "mv",
+    "uploadDate": {
+      "$date": "2024-09-23T18:00:53Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER _ 내 이름 맑음(My name is Malguem)ㅣ야외녹음실ㅣBeyond the Studio",
+    "url": "https://youtu.be/V7CASrPvvZs",
+    "iconImg": "https://i.ytimg.com/vi/V7CASrPvvZs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-24T18:00:53Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[SUB] 이것 뭐예요~?👀 비명과 오열이 난무하는 QWER의 알고리즘 대공개💥 | 챌린지 시키신 분 ep.6",
+    "url": "https://youtu.be/nDdC6gFYcZY",
+    "iconImg": "https://i.ytimg.com/vi/nDdC6gFYcZY/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-25T18:00:53Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER – 내 이름 맑음 (My Name is Malguem) | [dingo live] | 딩고뮤직 | Dingo Music",
+    "url": "https://youtu.be/a6QjHjohKb8",
+    "iconImg": "https://i.ytimg.com/vi/a6QjHjohKb8/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-25T19:00:53Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "(최초)마젠타 초등학교 졸업사진 공개합니다",
+    "url": "https://youtu.be/ZtKXZ2AbeCI",
+    "iconImg": "https://i.ytimg.com/vi/ZtKXZ2AbeCI/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-25T19:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "미미미누 고백 공격 피하러 온 QWER 실존! 플러팅 좀 그만 하세요! | 인기인가요 시즌2 EP.27",
+    "url": "https://youtu.be/NL2mKbbipCc",
+    "iconImg": "https://i.ytimg.com/vi/NL2mKbbipCc/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-26T17:30:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "전소연 프로듀서의 QWER 첫 디렉팅 l '내 이름 맑음' Recording Behind",
+    "url": "https://youtu.be/s_CQvOpX9FY",
+    "iconImg": "https://i.ytimg.com/vi/s_CQvOpX9FY/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-09-26T18:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "가수 제작하는 운동 유튜버와 보디빌더 밀어주는 가수… (Feat. QWER, 김계란)",
+    "url": "https://youtu.be/pOcQ-gV5IHY",
+    "iconImg": "https://i.ytimg.com/vi/pOcQ-gV5IHY/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-26T19:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "240시간 동안 고기만 먹기...ㄷㄷ",
+    "url": "https://youtu.be/aLg-ebgBTJ0",
+    "iconImg": "https://i.ytimg.com/vi/aLg-ebgBTJ0/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-26T18:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "🎤우린 너만의 아이돌 #QWER #쵸단 #시연 EP.25 | 코없코",
+    "url": "https://youtu.be/wv0v2Dy_RJo",
+    "iconImg": "https://i.ytimg.com/vi/wv0v2Dy_RJo/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-27T18:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "🐱댓글 이벤트🐱디즈니 집에 사는 인간? 인간 집에 사는 디즈니? [덕통사고 EP.2]",
+    "url": "https://youtu.be/6sdvOVotiyY",
+    "iconImg": "https://i.ytimg.com/vi/6sdvOVotiyY/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-28T19:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "기본기와 앨범연습",
+    "url": "https://youtu.be/XcT_rHs4ZTw",
+    "iconImg": "https://i.ytimg.com/vi/XcT_rHs4ZTw/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-09-29T02:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER - '가짜아이돌' + '내 이름 맑음' l LIVE CLIP",
+    "url": "https://youtu.be/PkEl_Z9B2y4",
+    "iconImg": "https://i.ytimg.com/vi/PkEl_Z9B2y4/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-09-29T12:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[3:58부터](ENG) 츄의 분식집 미방분 l QWER, 키스오브라이프, 히밥, 이동휘, 성종, 이은지, 유병재",
+    "url": "https://youtu.be/xwpe0sangH0",
+    "iconImg": "https://i.ytimg.com/vi/xwpe0sangH0/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-04T12:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER '내 이름 맑음' STAGE CAM | 'ALGORITHM'S BLOSSOM' SHOWCASE",
+    "url": "https://youtu.be/2cDmLt3oysg",
+    "iconImg": "https://i.ytimg.com/vi/2cDmLt3oysg/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-10-01T19:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "김계란 풀 스쿼트 논란? 다 말씀드리겠습니다",
+    "url": "https://youtu.be/7L9o7au3gBE",
+    "iconImg": "https://i.ytimg.com/vi/7L9o7au3gBE/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-10-01T19:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[라이징보이스] 한로로(HANRORO), QWER | 딩고뮤직 | DingoMusic",
+    "url": "https://youtu.be/AgLyASZ-Fa0",
+    "iconImg": "https://i.ytimg.com/vi/AgLyASZ-Fa0/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-10-02T19:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "맑음이에겐 무슨 일이 생긴 걸까..?👻 | '내 이름 맑음' MV Reaction",
+    "url": "https://youtu.be/DCJZ-qBWkb4",
+    "iconImg": "https://i.ytimg.com/vi/DCJZ-qBWkb4/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-10-03T13:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER의 고민중독&내 이름 맑음을 시티팝 라이브로! [시티팝 카 라이브]ㅣCITYPOP CAR LIVE",
+    "url": "https://youtu.be/7pzb2quq5xE",
+    "iconImg": "https://i.ytimg.com/vi/7pzb2quq5xE/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-10-04T22:30:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "쵸단 시연 히나 잡아먹고 목소리 똑같이내는 마젠타ㅋㅋ",
+    "url": "https://youtu.be/XtWifDCRLIk",
+    "iconImg": "https://i.ytimg.com/vi/XtWifDCRLIk/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-10-05T19:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER '내 이름 맑음' MV Behind The Scenes l 비하인드",
+    "url": "https://youtu.be/zwZg-ocBEuU",
+    "iconImg": "https://i.ytimg.com/vi/zwZg-ocBEuU/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-10-06T12:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[아빠의TV] QWER - 내 이름 맑음 뮤비 리액션",
+    "url": "https://youtu.be/XdcXOvDi9_M",
+    "iconImg": "https://i.ytimg.com/vi/XdcXOvDi9_M/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-10-06T19:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[EN] [같이묵자] 퉁퉁 붓고 코맹맹이가 되어도 난~! 밥은 꼭 묵자!(feat. 시연,히나)",
+    "url": "https://youtu.be/uoUaCbkiLJE",
+    "iconImg": "https://i.ytimg.com/vi/uoUaCbkiLJE/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-10-09T18:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 'ALGORITHM'S BLOSSOM' Documentary l QWER 다큐멘터리",
+    "url": "https://youtu.be/iKwPG3-k72g",
+    "iconImg": "https://i.ytimg.com/vi/iKwPG3-k72g/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-10-10T18:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "기본기가 재밌는날",
+    "url": "https://youtu.be/1U3igxbLeow",
+    "iconImg": "https://i.ytimg.com/vi/1U3igxbLeow/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-10-11T23:30:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 히나가 금손 원장님께 메이크업을 받는다면?💄 [덕통사고] EP.3",
+    "url": "https://youtu.be/ZeRPty-Hg64",
+    "iconImg": "https://i.ytimg.com/vi/ZeRPty-Hg64/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-10-12T19:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "패션이 even하지가 않네요. 탈락입니다",
+    "url": "https://youtu.be/0AUER072MXg",
+    "iconImg": "https://i.ytimg.com/vi/0AUER072MXg/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-10-13T12:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "보컬을 제가 하라고요..?",
+    "url": "https://youtu.be/zy90sBDGBnY",
+    "iconImg": "https://i.ytimg.com/vi/zy90sBDGBnY/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-10-14T19:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "내 이름 맑음 뮤비에 숨겨진 요소가 있다고?",
+    "url": "https://youtu.be/mAhhMWOPrgM",
+    "iconImg": "https://i.ytimg.com/vi/mAhhMWOPrgM/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-10-15T19:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "과메기 시티는 그만! 25년 차 포항인 QWER 마젠타&쵸단이 말아주는 포항 풀코스 | 연고지 1화🗺️",
+    "url": "https://youtu.be/BLkwjx3EU9I",
+    "iconImg": "https://i.ytimg.com/vi/BLkwjx3EU9I/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-10-16T18:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "1년만에 세번째 쇼케이스..! 이거 진짜에여?!",
+    "url": "https://youtu.be/Qsi8cqeiwcQ",
+    "iconImg": "https://i.ytimg.com/vi/Qsi8cqeiwcQ/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-10-20T12:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "쵸단 오열.. 김계란 운동 근황",
+    "url": "https://youtu.be/d7cdls1Vl6Q",
+    "iconImg": "https://i.ytimg.com/vi/d7cdls1Vl6Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-07-14T18:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[숏필름] 꽃보다 남녀노소 : 사랑과 우정 사이 | (4K)",
+    "url": "https://youtu.be/38WJzfwTSLA",
+    "iconImg": "https://i.ytimg.com/vi/38WJzfwTSLA/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-06-18T18:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "근육 vs 돈육! 이 악물고 대화하다가 턱근육 뻠삥되는 토크쇼 | 딱대 EP7 김계란 with QWER",
+    "url": "https://youtu.be/SgGb5Vid5xc",
+    "iconImg": "https://i.ytimg.com/vi/SgGb5Vid5xc/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-05-26T18:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "아이도루 쵸단 숨겨뒀던 브레이킹 실력 공개",
+    "url": "https://youtu.be/lf4IiR6jRCI",
+    "iconImg": "https://i.ytimg.com/vi/lf4IiR6jRCI/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-10-19T18:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 히나 꿈을 이루다🥹 (feat. 쥬라기 월드) [덕통사고 EP.4]",
+    "url": "https://youtu.be/cBLJV8uqUjA",
+    "iconImg": "https://i.ytimg.com/vi/cBLJV8uqUjA/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-10-26T19:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "흑백요리사 세기의 대결 ㄷㄷ",
+    "url": "https://youtu.be/DkUfhGigFpg",
+    "iconImg": "https://i.ytimg.com/vi/DkUfhGigFpg/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-10-26T19:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER - '안녕, 나의 슬픔(Goodbye My Sadness)' l LIVE CLIP",
+    "url": "https://youtu.be/5riuR07c8Dc",
+    "iconImg": "https://i.ytimg.com/vi/5riuR07c8Dc/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-10-27T12:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "'김계란님 큐떱이들 집 좀 데꼬 가세요....😱' QWER은 유명한 연우 친구들임 | 10덕 토크에 기 빨린 아이키💦",
+    "url": "https://youtu.be/LCEpd4E6ykI",
+    "iconImg": "https://i.ytimg.com/vi/LCEpd4E6ykI/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-10-30T18:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QW '한로로 X 윤마치' ER l 현대카드 언더스테이지 비하인드",
+    "url": "https://youtu.be/z50nfBPwTgY",
+    "iconImg": "https://i.ytimg.com/vi/z50nfBPwTgY/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-11-03T12:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER이 화가 난다면..?",
+    "url": "https://youtu.be/llM2byDQccQ",
+    "iconImg": "https://i.ytimg.com/vi/llM2byDQccQ/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-04T19:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "'나야, 큐떱' ｜ 최애의 OST 1화",
+    "url": "https://youtu.be/OdZ9-WDzt0s",
+    "iconImg": "https://i.ytimg.com/vi/OdZ9-WDzt0s/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-05T19:45:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "📖QWER 히나 고3 시절 썰과 미미미누 수능 꿀팁 대방출 현장 [덕통사고 EP.5]",
+    "url": "https://youtu.be/K9QIBygI7j4",
+    "iconImg": "https://i.ytimg.com/vi/K9QIBygI7j4/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-09T19:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER의 운수 좋은 날",
+    "url": "https://youtu.be/1fSTOiPV3Oc",
+    "iconImg": "https://i.ytimg.com/vi/1fSTOiPV3Oc/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-11-10T12:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "큐떱 SIUUUUUU 보실 분? ｜ 최애의 OST 2화",
+    "url": "https://youtu.be/aQsY1X73Z20",
+    "iconImg": "https://i.ytimg.com/vi/aQsY1X73Z20/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-12T18:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "계란님 책임지세요...",
+    "url": "https://youtu.be/caoRVWU3kRs",
+    "iconImg": "https://i.ytimg.com/vi/caoRVWU3kRs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-13T19:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "이..이래봬도 베스트밴드입니다",
+    "url": "https://youtu.be/ZlOZQ2Ef96o",
+    "iconImg": "https://i.ytimg.com/vi/ZlOZQ2Ef96o/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-11-17T12:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[SUB] 아이돌 데려다가 냅다 풍차 돌리기 | 챌린지스쿨 - QWER",
+    "url": "https://youtu.be/3FBLDDqS1po",
+    "iconImg": "https://i.ytimg.com/vi/3FBLDDqS1po/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-19T16:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[특이점EP.2] ‘K-pop’ 덕후들 필.수.시.청🚨 K-팬덤의 시작! 언제부터였냐면~🧐",
+    "url": "https://youtu.be/R5g3cqdUkVs",
+    "iconImg": "https://i.ytimg.com/vi/R5g3cqdUkVs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-19T16:30:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "드디어 OST 공개!｜ 최애의 OST 3화",
+    "url": "https://youtu.be/kUcCRNNBGSk",
+    "iconImg": "https://i.ytimg.com/vi/kUcCRNNBGSk/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-19T18:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER – ‘Halftime’ MV | FC온라인 [최애의 OST]",
+    "url": "https://youtu.be/CPHjgfDNRCM",
+    "iconImg": "https://i.ytimg.com/vi/CPHjgfDNRCM/hqdefault.jpg",
+    "tag": "MV",
+    "uploadDate": {
+      "$date": "2024-11-21T12:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "🤍💖오직 구단주님만을 위해 준비했다구요~네?! 💙💚 | FC온라인 | QWER",
+    "url": "https://youtu.be/HWMSfoNCJlU",
+    "iconImg": "https://i.ytimg.com/vi/HWMSfoNCJlU/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-21T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "👃만큼 커지는 마젠타의 선물 폭탄 💣 | FC온라인 | QWER",
+    "url": "https://youtu.be/_ssLz-yqVoc",
+    "iconImg": "https://i.ytimg.com/vi/_ssLz-yqVoc/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-21T13:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "💌마니또 쵸리다의 수수께끼 선물🤍 | FC온라인 | QWER",
+    "url": "https://youtu.be/LSrjRi2-1ik",
+    "iconImg": "https://i.ytimg.com/vi/LSrjRi2-1ik/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-21T13:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "죄송하지만 게임기 돌려줄래?",
+    "url": "https://youtu.be/wvqwXY6If4M",
+    "iconImg": "https://i.ytimg.com/vi/wvqwXY6If4M/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-21T18:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 신곡 최초 라이브! | Halftime 내이름맑음 고민중독",
+    "url": "https://youtu.be/9rWasoSii-g",
+    "iconImg": "https://i.ytimg.com/vi/9rWasoSii-g/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-22T18:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[TFT X QWER] TFT 아케인의 세계로 시너지 촬영현장 l 전략적 팀 전투",
+    "url": "https://youtu.be/J5zMIJ7bZaA",
+    "iconImg": "https://i.ytimg.com/vi/J5zMIJ7bZaA/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-22T18:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 광고 'Making Film'🎥 | Behind The Scenes | FC온라인 | QWER",
+    "url": "https://youtu.be/A2q_pOrbhQU",
+    "iconImg": "https://i.ytimg.com/vi/A2q_pOrbhQU/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-23T12:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 히나가 샤쵸 김계란의 계란짐을 습격.. 무슨 일이 일어날까? [덕통사고 EP.6]",
+    "url": "https://youtu.be/CR8T2mQTLR4",
+    "iconImg": "https://i.ytimg.com/vi/CR8T2mQTLR4/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-23T19:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "일본아이돌은 QWER을 알까..?",
+    "url": "https://youtu.be/OVq2yslB9uo",
+    "iconImg": "https://i.ytimg.com/vi/CR8T2mQTLR4/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-11-24T12:00:55Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[4K] QWER 2024WONDERLIVET 직캠 풀버전 l 241110 STAGE CAM",
+    "url": "https://youtu.be/SF8jlX-H2d8",
+    "iconImg": "https://i.ytimg.com/vi/SF8jlX-H2d8/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-11-24T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[EN] QWER 히나랑 소원 들어주기 걸고 게임 한판 해봤심더!(feat. 아스트로봇)",
+    "url": "https://youtu.be/jie-dxEd54s",
+    "iconImg": "https://i.ytimg.com/vi/jie-dxEd54s/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-27T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "수상하게도 코스프레에 진심인 아이도루 😋",
+    "url": "https://youtu.be/OYjDWcGLvAs",
+    "iconImg": "https://i.ytimg.com/vi/OYjDWcGLvAs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-28T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[KOREA] QWER [2024 Asia song Festival] | KBS WORLD TV 241113",
+    "url": "https://youtu.be/mhPkgpJBTuo",
+    "iconImg": "https://i.ytimg.com/vi/mhPkgpJBTuo/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-29T16:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[4K] QWER – 'Halftime' MV | FC온라인 [최애의 OST]",
+    "url": "https://youtu.be/7qRCUAQ_XC8",
+    "iconImg": "https://i.ytimg.com/vi/7qRCUAQ_XC8/hqdefault.jpg",
+    "tag": "mv",
+    "uploadDate": {
+      "$date": "2024-11-29T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[#MMA2024] QWER - 내 이름 맑음 + 고민중독 (MMA ver.) | #QWER",
+    "url": "https://youtu.be/v6xVldhvlrw",
+    "iconImg": "https://i.ytimg.com/vi/v6xVldhvlrw/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-30T17:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[#MMA2024] QWER - 핫트렌드상 수상소감 | #QWER #MMA2024 #MMA",
+    "url": "https://youtu.be/3eyd8FUol4k",
+    "iconImg": "https://i.ytimg.com/vi/3eyd8FUol4k/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-11-30T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "일상이 조롱인 QWER",
+    "url": "https://youtu.be/EsivhwfhISo",
+    "iconImg": "https://i.ytimg.com/vi/EsivhwfhISo/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-12-01T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "'저 그냥 퇴사할래요...'🥹 마감 지옥 매거진 에디터📚 | QWER 히나X시연 | 워크맨",
+    "url": "https://youtu.be/3vaFFVJGCw4",
+    "iconImg": "https://i.ytimg.com/vi/3vaFFVJGCw4/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-12-06T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "마카오 대회에.. 저희가.. 선수로요????? l 어쩌다 TMO ep.1 - 전략적 팀 전투",
+    "url": "https://youtu.be/88R5yTHZq6A",
+    "iconImg": "https://i.ytimg.com/vi/88R5yTHZq6A/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-12-07T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "위스키 덕후 쵸단과 고량주 덕후 정지선 셰프의 소개팅을 주선한 히나?! [덕통사고 EP.7]",
+    "url": "https://youtu.be/upVGWIhu3oM",
+    "iconImg": "https://i.ytimg.com/vi/upVGWIhu3oM/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-12-07T19:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "결국 눈물을 보이고 말았던 MMA",
+    "url": "https://youtu.be/sqtji9Gxboc",
+    "iconImg": "https://i.ytimg.com/vi/sqtji9Gxboc/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-12-08T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "비기 전수하러 왔습니다 l 어쩌다 TMO ep.2 - 전략적 팀 전투",
+    "url": "https://youtu.be/pzcNGMOtBtc",
+    "iconImg": "https://i.ytimg.com/vi/pzcNGMOtBtc/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-12-10T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "사고하고 고르기, 유연한 판단 l 어쩌다 TMO ep.3 - 전략적 팀 전투",
+    "url": "https://youtu.be/JJJ5JLQMgps",
+    "iconImg": "https://i.ytimg.com/vi/JJJ5JLQMgps/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-12-11T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "혼자 일본에 떨궈진 시쪽이",
+    "url": "https://youtu.be/MMsszZd-ul0",
+    "iconImg": "https://i.ytimg.com/vi/MMsszZd-ul0/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-12-15T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[TFT X QWER] 안녕, 나의 TMO l 전략적 팀 전투",
+    "url": "https://youtu.be/N_Y4-KkKzpI",
+    "iconImg": "https://i.ytimg.com/vi/N_Y4-KkKzpI/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-12-17T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 히나가 슈퍼카를 운전했다고? 전속력으로 돌진해 지구 저 끝까지!! [덕통사고 EP.8]",
+    "url": "https://youtu.be/_vd1RF-gIFo",
+    "iconImg": "https://i.ytimg.com/vi/_vd1RF-gIFo/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-12-21T19:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "쵸단이 결국 해냈습니다",
+    "url": "https://youtu.be/qgovbBaS7GM",
+    "iconImg": "https://i.ytimg.com/vi/qgovbBaS7GM/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-12-22T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "크리스마스에 생긴일",
+    "url": "https://youtu.be/wP-29HLUuNU",
+    "iconImg": "https://i.ytimg.com/vi/wP-29HLUuNU/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2024-12-25T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[#AAA2024]QWER- '내 이름 맑음 (Winter ver.) + 고민중독 (Winter ver.)' 4K Broadcast Stage | Official Video",
+    "url": "https://youtu.be/uvsfXJyfFfk",
+    "iconImg": "https://i.ytimg.com/vi/uvsfXJyfFfk/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2024-12-27T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "콘서트의 시발점 l 최애의 아이들 외전 EP0",
+    "url": "https://youtu.be/QJbEdn2sikA",
+    "iconImg": "https://i.ytimg.com/vi/QJbEdn2sikA/hqdefault.jpg",
+    "tag": "QWEROrgpre",
+    "uploadDate": {
+      "$date": "2024-12-29T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "배고픈 아이들",
+    "url": "https://youtu.be/0XnqUhoNEH0",
+    "iconImg": "https://i.ytimg.com/vi/0XnqUhoNEH0/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2025-01-05T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "당신 곁에 1,2, QWER!! l QWER The 1st Fan Concert Teaser",
+    "url": "https://youtu.be/WWO3hk9Y_7U",
+    "iconImg": "https://i.ytimg.com/vi/WWO3hk9Y_7U/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2025-01-06T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "공연이 끝난뒤..❤️ 데이트 포착",
+    "url": "https://youtu.be/CDJen9qKUiY",
+    "iconImg": "https://i.ytimg.com/vi/CDJen9qKUiY/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-01-06T19:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "꼰대 VS MZ 서로 킹받는 기싸움 (feat. QWER) [시연 & 대희] | 후라이드2 ep.05 [EN]",
+    "url": "https://youtu.be/ikz4u7RLias",
+    "iconImg": "https://i.ytimg.com/vi/ikz4u7RLias/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-01-10T18:30:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "아이돌 게임 1티어 히나! 오락실 게임 정복하러 다녀왔습니다! [덕통사고 EP.9]",
+    "url": "https://youtu.be/vulx-8lY20I",
+    "iconImg": "https://i.ytimg.com/vi/vulx-8lY20I/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-01-11T19:30:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 비상대책위원회 l 최애의아이들 외전 EP1",
+    "url": "https://youtu.be/WIhaWPDqxiU",
+    "iconImg": "https://i.ytimg.com/vi/WIhaWPDqxiU/hqdefault.jpg",
+    "tag": "QWEROrgpre",
+    "uploadDate": {
+      "$date": "2025-01-12T12:30:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "이거 맞아요..? l 최애의아이들 외전 EP2",
+    "url": "https://youtu.be/WzxIbYvm_yw",
+    "iconImg": "https://i.ytimg.com/vi/WzxIbYvm_yw/hqdefault.jpg",
+    "tag": "QWEROrgpre",
+    "uploadDate": {
+      "$date": "2025-01-19T12:30:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "2시간을 위해 2달을 갈아넣은 결과 l 최애의아이들 외전 EP3(完)",
+    "url": "https://youtu.be/Si96ZHZW-Tw",
+    "iconImg": "https://i.ytimg.com/vi/Si96ZHZW-Tw/hqdefault.jpg",
+    "tag": "QWEROrgpre",
+    "uploadDate": {
+      "$date": "2025-01-25T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "육식 듀오가 요리합니다! 육식맨&육식걸 히나의 지방 폭발 스테이크!🥩[덕통사고 EP.10]",
+    "url": "https://youtu.be/9OzP7ZiYKAk",
+    "iconImg": "https://i.ytimg.com/vi/9OzP7ZiYKAk/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-01-25T19:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER '달리기 (run! run! run!)' Dance Practice | 1st FanCon 1,2,QWER!",
+    "url": "https://youtu.be/UroZJx5S0VY",
+    "iconImg": "https://i.ytimg.com/vi/UroZJx5S0VY/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2025-01-28T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 'Dance Break' Rehearsal l 1st FanCon 1,2,QWER!",
+    "url": "https://youtu.be/Q4DEmswt4Sk",
+    "iconImg": "https://i.ytimg.com/vi/Q4DEmswt4Sk/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2025-01-29T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "요리하랬더니 애니 얘기만 하는 여자들의 살 빠지는 칼국수 | 스타!요리방 | (여자)아이들 소연 | QWER 마젠타, 히나",
+    "url": "https://youtu.be/xPFYztEnBDc",
+    "iconImg": "https://i.ytimg.com/vi/xPFYztEnBDc/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-01-30T19:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "1st FanCon 1,2 QWER l Concert VCR (Opening,Bridge)",
+    "url": "https://youtu.be/2LcTlKpq9GY",
+    "iconImg": "https://i.ytimg.com/vi/2LcTlKpq9GY/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2025-02-02T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "데뷔 1년만에 콘서트 뿌셨다",
+    "url": "https://youtu.be/RYw1vFzwfMY",
+    "iconImg": "https://i.ytimg.com/vi/RYw1vFzwfMY/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2025-02-09T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[무대 클립] QWER 내 이름 맑음, 고민 중독, 별의 하모니 무대!🌟",
+    "url": "https://youtu.be/dxiHwk-gyWY",
+    "iconImg": "https://i.ytimg.com/vi/dxiHwk-gyWY/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-02-13T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "자작곡도 없는게 무슨 밴드야?",
+    "url": "https://youtu.be/V5pA6TxCH0k",
+    "iconImg": "https://i.ytimg.com/vi/V5pA6TxCH0k/hqdefault.jpg",
+    "tag": "qwermusic",
+    "uploadDate": {
+      "$date": "2025-02-16T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "함께 있을 때 우린 두려울 것이 없었다",
+    "url": "https://youtu.be/CEUwVdjfcqY",
+    "iconImg": "https://i.ytimg.com/vi/CEUwVdjfcqY/hqdefault.jpg",
+    "tag": "qwermusic",
+    "uploadDate": {
+      "$date": "2025-02-23T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER - SODA + 고민중독 | D*AWARDS 디 어워즈",
+    "url": "https://youtu.be/r1pYT-SGud4",
+    "iconImg": "https://i.ytimg.com/vi/r1pYT-SGud4/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-02-22T19:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "오랜만이야 쵸단단💜 기다려줘서 고마워'",
+    "url": "https://youtu.be/ceeLBi8JYyE",
+    "iconImg": "https://i.ytimg.com/vi/ceeLBi8JYyE/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-02-27T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER - '청춘서약'",
+    "url": "https://youtu.be/CGvqj7bzCVY",
+    "iconImg": "https://i.ytimg.com/vi/CGvqj7bzCVY/hqdefault.jpg",
+    "tag": "qwermusic",
+    "uploadDate": {
+      "$date": "2025-02-28T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "흔들리는 파도 속에서 내 손을 잡아줘",
+    "url": "https://youtu.be/Z6JfNBIaIg8",
+    "iconImg": "https://i.ytimg.com/vi/Z6JfNBIaIg8/hqdefault.jpg",
+    "tag": "qwermusic",
+    "uploadDate": {
+      "$date": "2025-03-02T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "일본 귀족이 평가하는 QWER...",
+    "url": "https://youtu.be/xbbPXlzDTCs",
+    "iconImg": "https://i.ytimg.com/vi/xbbPXlzDTCs/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-03-05T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "노래방 CCTV에 찍힌 방과 후 여고생",
+    "url": "https://youtu.be/OXHdaj6Z-pY",
+    "iconImg": "https://i.ytimg.com/vi/OXHdaj6Z-pY/hqdefault.jpg",
+    "tag": "AB",
+    "uploadDate": {
+      "$date": "2025-03-09T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "🎥 [ON THE K : B] QWER의 첫 합주 비하인드!🩷",
+    "url": "https://youtu.be/qxL91tUyins",
+    "iconImg": "https://i.ytimg.com/vi/qxL91tUyins/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-03-14T17:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "스케쥴 다 파업하고 물회아저씨가 된 아희",
+    "url": "https://youtu.be/jcvCaTuAlK4",
+    "iconImg": "https://i.ytimg.com/vi/jcvCaTuAlK4/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-03-14T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "대상받은 QWER, 이거 진짜에요..?",
+    "url": "https://youtu.be/K0bzXlzwet8",
+    "iconImg": "https://i.ytimg.com/vi/K0bzXlzwet8/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-03-16T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "오키나와에서 발견한(?) 마젠타 닮은 사람",
+    "url": "https://youtu.be/jy3MhQyzuvI",
+    "iconImg": "https://i.ytimg.com/vi/jy3MhQyzuvI/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-03-23T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "OFFLINETV vs KPOP IDOLS: SNACK SHOWDOWN ft. QWER",
+    "url": "https://youtu.be/74nlvz6HoyQ",
+    "iconImg": "https://i.ytimg.com/vi/74nlvz6HoyQ/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-03-30T05:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "와인요리 준다고 하지 않았어요..?",
+    "url": "https://youtu.be/z8pOt533xL8",
+    "iconImg": "https://i.ytimg.com/vi/z8pOt533xL8/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-03-30T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[예고편] 너네가 가자고해서 차는 우리가 준비했어 ^_^🚍 l 어디로든 버스킹 예고",
+    "url": "https://youtu.be/o4o49zx5Xh8",
+    "iconImg": "https://i.ytimg.com/vi/o4o49zx5Xh8/hqdefault.jpg",
+    "tag": "bus",
+    "uploadDate": {
+      "$date": "2025-04-06T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 'PLAY, WE, DEW' MV",
+    "url": "https://youtu.be/8IMPpF2tIWI",
+    "iconImg": "https://i.ytimg.com/vi/8IMPpF2tIWI/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-04-13T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "1년전과 사뭇 달라진 QWER",
+    "url": "https://youtu.be/C6Sb1ijby24",
+    "iconImg": "https://i.ytimg.com/vi/C6Sb1ijby24/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-04-20T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "1QWER - 고민중독 (T.B.H) / THE FIRST TAKE",
+    "url": "https://youtu.be/jn-b0E2luMQ",
+    "iconImg": "https://i.ytimg.com/vi/jn-b0E2luMQ/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-04-25T22:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "처음 겪어보는 힐링예능에 흥분(?)한 큐떱이들 l 어디로든 버스킹 EP1-1",
+    "url": "https://youtu.be/AXBOgUfbPKc",
+    "iconImg": "https://i.ytimg.com/vi/AXBOgUfbPKc/hqdefault.jpg",
+    "tag": "bus",
+    "uploadDate": {
+      "$date": "2025-04-27T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "너네 이거 태우면 나 진짜 욕한다?!! X&#%# l 어디로든 버스킹 EP1-2",
+    "url": "https://youtu.be/Rd6G-q_Vhs8",
+    "iconImg": "https://i.ytimg.com/vi/Rd6G-q_Vhs8/hqdefault.jpg",
+    "tag": "bus",
+    "uploadDate": {
+      "$date": "2025-04-30T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "“학교가 없어질 위기..” 전교생 14명 아이들을 위한 버스킹 l 어디로든 버스킹 EP2",
+    "url": "https://youtu.be/8RZKIpc8Ohs",
+    "iconImg": "https://i.ytimg.com/vi/8RZKIpc8Ohs/hqdefault.jpg",
+    "tag": "bus",
+    "uploadDate": {
+      "$date": "2025-05-04T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "살아남았다는 건 강하다는 증거✊🏻QWER 히나&시연 인천상륙작전 | 연고지 시즌2 7화🗺️",
+    "url": "https://youtu.be/JjRflBfBt6s",
+    "iconImg": "https://i.ytimg.com/vi/JjRflBfBt6s/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-05-07T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "이거 방송 나갈수있어요..? l 어디로든 버스킹 EP3",
+    "url": "https://youtu.be/vr0Di8RJllU",
+    "iconImg": "https://i.ytimg.com/vi/vr0Di8RJllU/hqdefault.jpg",
+    "tag": "bus",
+    "uploadDate": {
+      "$date": "2025-05-11T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "갑자기 컴백을 한다구요..? l 어디로든 버스킹 EP4",
+    "url": "https://youtu.be/U3ncAuiGa20",
+    "iconImg": "https://i.ytimg.com/vi/U3ncAuiGa20/hqdefault.jpg",
+    "tag": "bus",
+    "uploadDate": {
+      "$date": "2025-05-18T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "망치는 놓고 얘기해 주시면 안 될까요?",
+    "url": "https://youtu.be/SUkwOD7eFy4",
+    "iconImg": "https://i.ytimg.com/vi/SUkwOD7eFy4/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-05-21T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[4K] 돌출무대 잘해서 호다닥 올리는 QWER '고민중독' 청주대학교 직캠",
+    "url": "https://youtu.be/RR8JU4agI6c",
+    "iconImg": "https://i.ytimg.com/vi/RR8JU4agI6c/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-05-22T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "💃 BAND PRACTICE TEASER ♥️ | QWER | KCON JAPAN 2025",
+    "url": "https://youtu.be/IQPVZmuraJY",
+    "iconImg": "https://i.ytimg.com/vi/IQPVZmuraJY/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-05-22T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER 's 1min. ⏱🍀 | KCON JAPAN 2025",
+    "url": "https://youtu.be/9W30mlbCM5Y",
+    "iconImg": "https://i.ytimg.com/vi/9W30mlbCM5Y/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-05-11T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "05/13 台鋼 VS 富邦 賽前，搖滾甜妹QWER攜手王念好一起為今天的比賽開出好球",
+    "url": "https://youtu.be/a0myuI9CPXY",
+    "iconImg": "https://i.ytimg.com/vi/a0myuI9CPXY/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-05-13T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "05/13 #QWER 蒞臨新莊城堡開球啦 Hina💙 Siyeon💚超美開球：想吃鮮奶甜甜圈",
+    "url": "https://youtu.be/SmjbssPBgc0",
+    "iconImg": "https://i.ytimg.com/vi/SmjbssPBgc0/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-05-13T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "신곡듣고 울어버린 부모님.. 오사카에서 눈물의 재회 l 어디로든 버스킹 EP5",
+    "url": "https://youtu.be/9eAYtvuMJkA",
+    "iconImg": "https://i.ytimg.com/vi/9eAYtvuMJkA/hqdefault.jpg",
+    "tag": "bus",
+    "uploadDate": {
+      "$date": "2025-05-25T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER '난 네 편이야, 온 세상이 불협일지라도' Album Trailer",
+    "url": "https://youtu.be/EzXvFrKRBaI",
+    "iconImg": "https://i.ytimg.com/vi/EzXvFrKRBaI/hqdefault.jpg",
+    "tag": "3rdMini",
+    "uploadDate": {
+      "$date": "2025-06-01T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER '난 네 편이야, 온 세상이 불협일지라도' A Day of Busking",
+    "url": "https://youtu.be/bYLgrcmKDk8",
+    "iconImg": "https://i.ytimg.com/vi/bYLgrcmKDk8/hqdefault.jpg",
+    "tag": "3rdMini",
+    "uploadDate": {
+      "$date": "2025-06-04T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER '메아리(REBOUND)' Concept Film",
+    "url": "https://youtu.be/yZsjZXcP-1Q",
+    "iconImg": "https://i.ytimg.com/vi/yZsjZXcP-1Q/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-06-04T18:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "Q우리틴틴 X QWER '고민해도 괜찮아'",
+    "url": "https://youtu.be/G9Yf3nomIJo",
+    "iconImg": "https://i.ytimg.com/vi/G9Yf3nomIJo/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-06-04T18:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "Playing Reverse Charades With KPop Idols",
+    "url": "https://youtu.be/Whu5o4jsWzk",
+    "iconImg": "https://i.ytimg.com/vi/Whu5o4jsWzk/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-06-04T06:00:54Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER '눈물참기' Official M/V Teaser #1",
+    "url": "https://youtu.be/x3zJvCKrxas",
+    "iconImg": "https://i.ytimg.com/vi/x3zJvCKrxas/hqdefault.jpg",
+    "tag": "3rdMini",
+    "uploadDate": {
+      "$date": "2025-06-06T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER '눈물참기' Official M/V Teaser #2",
+    "url": "https://youtu.be/Ak4oo0M5LAg",
+    "iconImg": "https://i.ytimg.com/vi/Ak4oo0M5LAg/hqdefault.jpg",
+    "tag": "3rdMini",
+    "uploadDate": {
+      "$date": "2025-06-08T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "[4K] '가사에 울컥..💧' QWER, 타이틀곡 '눈물참기' 라이브 무대 | '난 네 편이야, 온 세상이 불협일지라도' 쇼케이스",
+    "url": "https://youtu.be/RdGKnQUddf0",
+    "iconImg": "https://i.ytimg.com/vi/RdGKnQUddf0/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-06-09T17:59:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER '눈물참기' Official MV",
+    "url": "https://youtu.be/pifz9JH1Re8",
+    "iconImg": "https://i.ytimg.com/vi/pifz9JH1Re8/hqdefault.jpg",
+    "tag": "3rdMini",
+    "uploadDate": {
+      "$date": "2025-06-09T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER - 눈물참기ㅣ야외녹음실ㅣBeyond the StudioㅣDearㅣ쵸단 마젠타 히나 시연ㅣLIVE",
+    "url": "https://youtu.be/WdtjKkT12EY",
+    "iconImg": "https://i.ytimg.com/vi/WdtjKkT12EY/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-06-10T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "Q눈물 참기 QWER.. 얘네 애니 엄청 좋아하는구나 ㅋㅋ",
+    "url": "https://youtu.be/tHobqM1fZsc",
+    "iconImg": "https://i.ytimg.com/vi/tHobqM1fZsc/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-06-11T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "‘큐더블유이알’ 눈물참기 말고 귀여움에 웃음 참기🤭 난 큐떱 편이야~💕ㅣHD Photo Behind (QWER)",
+    "url": "https://youtu.be/84KJJASeJLY",
+    "iconImg": "https://i.ytimg.com/vi/84KJJASeJLY/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-06-11T17:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "‘눈물참기’ 보면서 눈물 참기 가능할까? l '눈물참기' MV Reaction",
+    "url": "https://youtu.be/gHS3N0D-k3c",
+    "iconImg": "https://i.ytimg.com/vi/gHS3N0D-k3c/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-06-12T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "어디까지 추해지는 겁니까 마젠타님...",
+    "url": "https://youtu.be/Pcc-yYY2Ih0",
+    "iconImg": "https://i.ytimg.com/vi/Pcc-yYY2Ih0/hqdefault.jpg",
+    "tag": "none",
+    "uploadDate": {
+      "$date": "2025-06-13T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "오늘은 왜 이렇게 눈물이 나는지 l '눈물참기' MV Behind",
+    "url": "https://youtu.be/6e6jrfFuSmY",
+    "iconImg": "https://i.ytimg.com/vi/6e6jrfFuSmY/hqdefault.jpg",
+    "tag": "3rdMini",
+    "uploadDate": {
+      "$date": "2025-06-15T12:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "QWER '눈물참기‘ Official Live Performance (Metro ver.)",
+    "url": "https://youtu.be/oC0RSc9hpqU",
+    "iconImg": "https://i.ytimg.com/vi/oC0RSc9hpqU/hqdefault.jpg",
+    "tag": "3rdMini",
+    "uploadDate": {
+      "$date": "2025-06-18T18:00:56Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "666aec7b4056605a9445e050"
+    },
+    "title": "'COMEBACK' QWER - 눈물참기 #엠카운트다운 EP.893 | Mnet 250619 방송",
+    "url": "https://youtu.be/WRIjMFXLfwo",
+    "iconImg": "https://i.ytimg.com/vi/WRIjMFXLfwo/hqdefault.jpg",
+    "tag": "TV_Music",
+    "uploadDate": {
+      "$date": "2025-06-19T18:10:56Z"
+    }
+  }
+]

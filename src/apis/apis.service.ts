@@ -16,7 +16,6 @@ import { VideoJson } from 'src/types/typs';
 import { ConfigService } from '@nestjs/config'; // ConfigService 임포트
 import { FcnCamApi } from './entities/fanCameapi.entity';
 
-const API_KEY = 'AIzaSyCVCbk0Vss9SL_grPReEKJhbtHVZ87Eq-k';
 @Injectable()
 export class ApisService {
   private readonly logger = new Logger(ApisService.name); // Logger도 생성자 밖에서 private readonly로 선언하는 것이 일반적입니다.

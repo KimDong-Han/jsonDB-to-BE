@@ -1,3 +1,4 @@
+import { PickType } from '@nestjs/mapped-types';
 import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 @Entity('userReqFanCam') // 테이블 이ㅁ
 export class FcnCamApi {
@@ -25,6 +26,8 @@ export class FcnCamApi {
   @Column({ type: 'timestamp with time zone', nullable: false }) // 업로드 날짜
   uploadDate: Date;
 
-  @Column({ type: 'boolean', nullable: false, default: false }) // 업로드 날짜
+  @Column({ type: 'boolean', nullable: false, default: false }) // 리스트 반영 여부
   approve: Boolean;
 }
+
+export type FcnCamType = keyof FcnCamApi;

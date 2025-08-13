@@ -1,10 +1,6 @@
-import {
-  IsString,
-  IsUrl,
-  IsOptional,
-  IsNotEmpty,
-  IsBoolean,
-} from 'class-validator';
+import { PickType } from '@nestjs/mapped-types';
+import { IsString, IsUrl, IsNotEmpty, IsBoolean } from 'class-validator';
+import { Type } from 'class-transformer';
 
 export class ApproveDto {
   @IsString()

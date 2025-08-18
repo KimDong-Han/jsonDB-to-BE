@@ -10,7 +10,6 @@ import { ApproveDto } from './dto/approve-request.dto';
 import { Repository } from 'typeorm';
 import { InjectRepository } from '@nestjs/typeorm';
 import axios, { Axios, AxiosError } from 'axios';
-import { ConfigService } from '@nestjs/config'; // ConfigService 임포트
 import { FcnCamApi, FcnCamType } from './entities/fanCameapi.entity';
 import { FilterOperator, paginate, PaginateQuery } from 'nestjs-paginate';
 

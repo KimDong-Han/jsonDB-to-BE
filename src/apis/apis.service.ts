@@ -143,6 +143,8 @@ export class ApisService {
       this.fanCameApiRepository,
       customQurty,
     );
+    console.log(process.env.NODE_ENV, process.env.API_KEY);
+
     return qury;
   }
 
@@ -163,6 +165,8 @@ export class ApisService {
         approve: [FilterOperator.EQ],
       },
     };
+    console.log('asdasdasdas');
+
     const qury = await paginate(query, this.fanCameApiRepository, customQurty);
     return qury;
   }

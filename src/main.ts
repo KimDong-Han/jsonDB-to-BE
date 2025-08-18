@@ -16,7 +16,7 @@ async function bootstrap() {
   const { httpAdapter } = app.get(HttpAdapterHost);
 
   app.useGlobalFilters(new AllExceptionsFilter(httpAdapter));
-
+  console.log(process.env.NODE_ENV, process.env.API_KEY);
   await app.listen(process.env.PORT ?? 3000); //모든설정이 끝난뒤 요청을받아야함
 }
 bootstrap();

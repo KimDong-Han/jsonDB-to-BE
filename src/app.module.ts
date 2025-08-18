@@ -28,11 +28,10 @@ import { ApisController } from './apis/apis.controller';
         username: configService.get<string>('PGUSER'), // 제공된 PGUSER 환경 변수 사용
         password: configService.get<string>('PGPASSWORD'), // 제공된 PGPASSWORD 환경 변수 사용
         database: configService.get<string>('PGDATABASE'), // 제공된 PGDATA
-        //엔티티는 필수이기에 프로젝트 내의 모든 엔티티를 포함한다는뜻
         entities: [__dirname + '/apis/entities/*.entity{.ts,.js}'],
         synchronize: configService.get<boolean>('DB_SYNCHRONIZE'),
         ssl: configService.get<boolean>('DB_SSL_REQUIRED')
-          ? { rejectUnauthorized: false } // Vercel DB의 경우 보통 이 설정으로 작동합니다.
+          ? { rejectUnauthorized: false }
           : true,
       }),
     }),

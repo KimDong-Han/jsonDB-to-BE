@@ -22,9 +22,18 @@ export class ApisService {
   ) {}
   // 유저가 이거 추가해주세요 요청
   async createUserRequest(createApiDto: CreateApiDto) {
+    const regex = /(?:youtube\.com\/watch\?v=|youtu\.be\/)([a-zA-Z0-9_-]{11})/;
+    const match = createApiDto.url.match(regex);
+    if (!match) {
+      throw new ConflictException({
+        message: `올바르지않은 URL 형식 입니다.`,
+      });
+    }
+    const videoId = match[1];
+    const vidUrl = `https://youtu.be/${videoId}`;
     try {
       const finds = await this.fanCameApiRepository.findOne({
-        where: { url: createApiDto.url },
+        where: { url: vidUrl },
       });
       console.log(finds);
       if (finds) {
@@ -40,10 +49,10 @@ export class ApisService {
 
       if (!finds) {
         //유튜브 API를 활용하여 필요한 양식 가공
-        const regex =
-          /(?:https?:\/\/)?(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/)([a-zA-Z0-9_-]{11})/;
-        const match = createApiDto.url.match(regex);
-        const videoId = match ? match[1] : null;
+        // const regex =
+        //   /(?:https?:\/\/)?(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/)([a-zA-Z0-9_-]{11})/;
+        // const match = createApiDto.url.match(regex);
+        // const videoId = match ? match[1] : null;
         const url = `https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&id=${videoId}&key=${process.env.API_KEY_YTB}`;
         const response = await axios.get(url);
         const data = response.data;
@@ -51,7 +60,7 @@ export class ApisService {
           this.logger.log('데이터 삽입 시작');
           const inputData = this.fanCameApiRepository.create({
             title: data.items[0].snippet.title,
-            url: createApiDto.url,
+            url: vidUrl,
             iconImg: data.items[0].snippet.thumbnails.maxres.url,
             source: data.items[0].snippet.channelTitle,
             tag: createApiDto.tag!,

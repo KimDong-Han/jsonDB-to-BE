@@ -14,9 +14,12 @@ async function bootstrap() {
   );
   // app.setGlobalPrefix('apis');
   const { httpAdapter } = app.get(HttpAdapterHost);
-
+  app.enableCors({
+    origin: ['https://www.qwerflix.com','http://localhost:3000','http://localhost:3001'], // 프론트 도메인
+    methods: 'GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS',
+    credentials: true,
+  });
   app.useGlobalFilters(new AllExceptionsFilter(httpAdapter));
-  console.log(process.env.NODE_ENV, process.env.API_KEY);
   await app.listen(process.env.PORT ?? 3000); //모든설정이 끝난뒤 요청을받아야함
 }
 bootstrap();

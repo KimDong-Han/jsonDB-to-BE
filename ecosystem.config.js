@@ -5,7 +5,6 @@ module.exports = {
       script: 'node_modules/.bin/nest',
       args: 'start --watch',
       interpreter: 'node',
-      cwd: __dirname, // 이 파일 기준 디렉터리
       env: {
         NODE_ENV: 'development',
       },
@@ -14,7 +13,6 @@ module.exports = {
       name: 'qwer_prod', // 프로덕션 모드
       script: 'dist/main.js',
       interpreter: 'node',
-      cwd: __dirname, // 이 파일 기준 디렉터리
       env_production: {
         NODE_ENV: 'production',
       },

@@ -57,11 +57,19 @@ export class ApisService {
         const response = await axios.get(url);
         const data = response.data;
         if (data.items && data.items.length > 0) {
-          this.logger.log('데이터 삽입 시작');
+          this.logger.log('데이터 삽입 시작!!');
+          const thumbnails = data.items[0].snippet.thumbnails;
+          const iconImg =
+            thumbnails.maxres?.url ||
+            thumbnails.standard?.url ||
+            thumbnails.high?.url ||
+            thumbnails.medium?.url ||
+            thumbnails.default?.url||"썸네일 직접추가"
+
           const inputData = this.fanCameApiRepository.create({
             title: data.items[0].snippet.title,
             url: vidUrl,
-            iconImg: data.items[0].snippet.thumbnails.maxres.url,
+            iconImg: iconImg,
             source: data.items[0].snippet.channelTitle,
             tag: createApiDto.tag!,
             uploadDate: new Date(data.items[0].snippet.publishedAt),

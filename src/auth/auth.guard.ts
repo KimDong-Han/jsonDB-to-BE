@@ -15,7 +15,6 @@ export class AuthGuard implements CanActivate {
   canActivate(context: ExecutionContext): boolean {
     const request = context.switchToHttp().getRequest();
     const apiKey = request.headers['x-api-key']; // 클라이언트가 보낸 API Key
-    console.log('>>>>>>', process.env.NODE_ENV, process.env.SECRET_API_KEY);
 
     this.logger.log(`Received API Key: ${!!apiKey}`); // 키를 직접 노출하지않고 유무만 로그에 찍음
     // 사실 이거도 찍을 필요가 있나 싶음.

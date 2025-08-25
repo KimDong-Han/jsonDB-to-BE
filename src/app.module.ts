@@ -7,6 +7,8 @@ import { ApisModule } from './apis/apis.module';
 import { CreateData } from './apis/entities/createData.entity';
 import { Api } from './apis/entities/api.entity';
 import { ApisController } from './apis/apis.controller';
+import { ArmyfestivalModule } from './armyfestival/armyfestival.module';
+import { Armyfestival } from './armyfestival/entities/armyfestival.entity';
 
 @Module({
   imports: [
@@ -28,7 +30,10 @@ import { ApisController } from './apis/apis.controller';
         username: configService.get<string>('PGUSER'), // 제공된 PGUSER 환경 변수 사용
         password: configService.get<string>('PGPASSWORD'), // 제공된 PGPASSWORD 환경 변수 사용
         database: configService.get<string>('PGDATABASE'), // 제공된 PGDATA
-        entities: [__dirname + '/apis/entities/*.entity{.ts,.js}'],
+        entities: [
+          __dirname + '/apis/entities/*.entity{.ts,.js}',
+          __dirname + '/armyfestival/entities/*.entity{.ts,.js}',
+        ],
         synchronize: configService.get<boolean>('DB_SYNCHRONIZE'),
         ssl: configService.get<boolean>('DB_SSL_REQUIRED')
           ? { rejectUnauthorized: false }
@@ -36,7 +41,8 @@ import { ApisController } from './apis/apis.controller';
       }),
     }),
     ApisModule,
-    TypeOrmModule.forFeature([CreateData]),
+    TypeOrmModule.forFeature([CreateData, Armyfestival]),
+    ArmyfestivalModule,
   ],
   controllers: [AppController, ApisController],
   providers: [AppService],

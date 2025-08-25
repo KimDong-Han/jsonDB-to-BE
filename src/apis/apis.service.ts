@@ -64,7 +64,8 @@ export class ApisService {
             thumbnails.standard?.url ||
             thumbnails.high?.url ||
             thumbnails.medium?.url ||
-            thumbnails.default?.url||"썸네일 직접추가"
+            thumbnails.default?.url ||
+            '썸네일 직접추가';
 
           const inputData = this.fanCameApiRepository.create({
             title: data.items[0].snippet.title,
@@ -160,7 +161,6 @@ export class ApisService {
       this.fanCameApiRepository,
       customQurty,
     );
-    console.log(process.env.NODE_ENV, process.env.API_KEY);
 
     return qury;
   }
@@ -182,8 +182,6 @@ export class ApisService {
         approve: [FilterOperator.EQ],
       },
     };
-    console.log('asdasdasdas');
-
     const qury = await paginate(query, this.fanCameApiRepository, customQurty);
     return qury;
   }

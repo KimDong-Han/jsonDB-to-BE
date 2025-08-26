@@ -1,7 +1,7 @@
 import { Injectable, InternalServerErrorException } from '@nestjs/common';
 import { CreateArmyfestivalDto } from './dto/create-armyfestival.dto';
 import { UpdateArmyfestivalDto } from './dto/update-armyfestival.dto';
-import { paginate, PaginateQuery } from 'nestjs-paginate';
+import { FilterOperator, paginate, PaginateQuery } from 'nestjs-paginate';
 import { ArmyFestivalType, Armyfestival } from './entities/armyfestival.entity';
 import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
@@ -21,6 +21,10 @@ export class ArmyfestivalService {
     const customQuery = {
       sortableColumns,
       defaultSortBy,
+      filterableColumns: {
+        // FE의 월 선택 기능을 위한 필터 적용 두 날짜 사이의 데이터만 가져오는 옵션
+        uploadDate: [FilterOperator.BTW],
+      },
     };
     const pageQuery = {
       ...query,
@@ -33,7 +37,6 @@ export class ArmyfestivalService {
         this.armyfestivalRepository,
         customQuery,
       );
-
       return qury;
     } catch (error) {
       // NestJS HTTP 예외로 변환

@@ -1,17 +1,20 @@
 import { Global, Module } from '@nestjs/common';
+import { ConfigModule, ConfigService } from '@nestjs/config';
 import Redis from 'ioredis';
-// 재사용을 위해 모듈화
+
 @Global()
 @Module({
+  imports: [ConfigModule], // ConfigService 사용 위해 추가
   providers: [
     {
       provide: 'REDIS',
-      useFactory: () => {
+      useFactory: (configService: ConfigService) => {
         return new Redis({
-          host: 'localhost',
-          port: 6379,
+          host: configService.get<string>('REDIS_HOST') || 'localhost',
+          port: Number(configService.get<number>('REDIS_PORT') || 6379),
         });
       },
+      inject: [ConfigService],
     },
   ],
   exports: ['REDIS'],

@@ -1,4 +1,5 @@
 import { Logger, Module, OnModuleInit } from '@nestjs/common';
+import { CacheModule } from '@nestjs/cache-manager';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { ConfigModule, ConfigService } from '@nestjs/config';
@@ -9,10 +10,12 @@ import { Api } from './apis/entities/api.entity';
 import { ApisController } from './apis/apis.controller';
 import { ArmyfestivalModule } from './armyfestival/armyfestival.module';
 import { Armyfestival } from './armyfestival/entities/armyfestival.entity';
+import { AdminauthModule } from './adminauth/adminauth.module';
+import { RedisModule } from './redis.module';
+import { redisStore } from 'cache-manager-redis-yet';
 
 @Module({
   imports: [
-    // 해당 부분은 환경변수를 이 프로젝트 전역에서 사용할수있도록 한다
     ConfigModule.forRoot({
       isGlobal: true,
       envFilePath:
@@ -20,19 +23,30 @@ import { Armyfestival } from './armyfestival/entities/armyfestival.entity';
           ? '.env.production'
           : '.env.development',
     }),
+    RedisModule,
+    CacheModule.register({
+      isGlobal: true,
+      useFactory: () => ({
+        store: redisStore,
+        host: process.env.REDIS_HOST || 'localhost',
+        port: Number(process.env.REDIS_PORT) || 6379,
+        // ttl:0 //영구저장 할 예정임.(절대 안바뀌는 데이터만 저장)
+      }),
+    }),
     TypeOrmModule.forRootAsync({
-      imports: [ConfigModule], // ConfigService를 사용하기 위해 ConfigModule을 임포트합니다.
-      inject: [ConfigService], // ConfigService를 주입받아 환경 변수에 접근합니다.
+      imports: [ConfigModule],
+      inject: [ConfigService],
       useFactory: async (configService: ConfigService) => ({
         type: 'postgres',
         host: configService.get<string>('PGHOST'),
         port: 5432,
-        username: configService.get<string>('PGUSER'), // 제공된 PGUSER 환경 변수 사용
-        password: configService.get<string>('PGPASSWORD'), // 제공된 PGPASSWORD 환경 변수 사용
-        database: configService.get<string>('PGDATABASE'), // 제공된 PGDATA
+        username: configService.get<string>('PGUSER'),
+        password: configService.get<string>('PGPASSWORD'),
+        database: configService.get<string>('PGDATABASE'),
         entities: [
           __dirname + '/apis/entities/*.entity{.ts,.js}',
           __dirname + '/armyfestival/entities/*.entity{.ts,.js}',
+          __dirname + '/adminauth/entities/*.entity{.ts,.js}',
         ],
         synchronize: configService.get<boolean>('DB_SYNCHRONIZE'),
         ssl: configService.get<boolean>('DB_SSL_REQUIRED')
@@ -43,18 +57,15 @@ import { Armyfestival } from './armyfestival/entities/armyfestival.entity';
     ApisModule,
     TypeOrmModule.forFeature([CreateData, Armyfestival]),
     ArmyfestivalModule,
+    AdminauthModule,
   ],
   controllers: [AppController, ApisController],
   providers: [AppService],
 })
 export class AppModule implements OnModuleInit {
-  // NestJS의 내장 Logger를 사용합니다. 컨텍스트를 'AppModule'로 지정하여 로그 출처를 명확히 합니다.
   private readonly logger = new Logger(AppModule.name);
 
-  // 모든 모듈이 초기화된 후에 이 메서드가 호출됩니다.
   onModuleInit() {
     this.logger.log('>>>>>Vecel NeonDB Connected<<<<<');
-    // 필요하다면 여기에 추가적인 DB 연결 확인 로직을 넣을 수도 있습니다.
-    // 예: 특정 엔티티의 레포지토리를 주입받아 간단한 쿼리를 날려보는 등
   }
 }

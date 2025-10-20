@@ -3,9 +3,10 @@ import { ApisService } from './apis.service';
 import { ApisController } from './apis.controller';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { FcnCamApi } from './entities/fanCameapi.entity';
+import { newbwg } from './entities/newbwg.entity';
 
 @Module({
-  imports: [TypeOrmModule.forFeature([FcnCamApi])],
+  imports: [TypeOrmModule.forFeature([FcnCamApi, newbwg])],
   controllers: [ApisController],
   providers: [ApisService],
   exports: [ApisService, TypeOrmModule.forFeature([FcnCamApi])],

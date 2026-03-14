@@ -28,7 +28,6 @@ export class AdminauthService {
       const saltSeed = 10;
       const hashedPw = await bcrypt.hash(password, saltSeed);
       const checkId = await this.admin.findOne({ where: { adminId: id } });
-      console.log(checkId);
       if (checkId) {
         throw new ConflictException('중복된 아이디는 사용이 불가능합니다.');
       }
@@ -63,7 +62,6 @@ export class AdminauthService {
       }
       const payload = { id: findId.adminId };
       const access_token = this.jwtService.sign(payload);
-      console.log(payload);
       const savereids = await this.redisClient.set(
         `jwt:${id}`,
         access_token,

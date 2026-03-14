@@ -54,7 +54,6 @@ export class ApisController {
 
   @Get('/allStatus')
   findAll() {
-    console.log('kkk');
     return this.apisService.initNewBwgVideoData();
   }
   @Get('/approveStatus')
@@ -82,6 +81,7 @@ export class ApisController {
     const cacheKey = 'newbwg:first';
     const getFirstPage = await this.redisClient.get(cacheKey);
     if (!getFirstPage) {
+      await this.apisService.newBwgVideoOnRedis(query);
       return this.apisService.newBwgPageApi(query);
     }
     return JSON.parse(getFirstPage);

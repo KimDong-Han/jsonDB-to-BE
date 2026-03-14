@@ -30,7 +30,6 @@ export class JwtGuard implements CanActivate {
       }
       //성공하면 id반환.
       reqToken.userid = { id };
-      console.log('>>>>>>', reqToken.userid);
       return true;
     } catch (err) {
       throw new UnauthorizedException('Invalid token, access denied');

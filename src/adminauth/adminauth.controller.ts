@@ -24,7 +24,6 @@ export class AdminauthController {
 
   @Post('/signupadm')
   signupForAdmin(@Body() createAdminauthDto: CreateAdminauthDto) {
-    console.log('THIS');
     return this.adminauthService.signUpAdmin(createAdminauthDto);
   }
 

@@ -17,6 +17,8 @@ export class AuthGuard implements CanActivate {
     const apiKey = request.headers['x-api-key']; // 클라이언트가 보낸 API Key
 
     this.logger.log(`Received API Key: ${!!apiKey}`); // 키를 직접 노출하지않고 유무만 로그에 찍음
+        this.logger.log(`Received API Key:`,apiKey); // 키를 직접 노출하지않고 유무만 로그에 찍음
+
     // 사실 이거도 찍을 필요가 있나 싶음.
 
     // 환경 변수에서 설정된 유효한 API Key Get

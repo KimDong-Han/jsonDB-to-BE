@@ -7,7 +7,6 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { ApisModule } from './apis/apis.module';
 import { CreateData } from './apis/entities/createData.entity';
 import { Api } from './apis/entities/api.entity';
-import { ApisController } from './apis/apis.controller';
 import { ArmyfestivalModule } from './armyfestival/armyfestival.module';
 import { Armyfestival } from './armyfestival/entities/armyfestival.entity';
 import { AdminauthModule } from './adminauth/adminauth.module';
@@ -59,7 +58,7 @@ import { redisStore } from 'cache-manager-redis-yet';
     ArmyfestivalModule,
     AdminauthModule,
   ],
-  controllers: [AppController, ApisController],
+  controllers: [AppController],
   providers: [AppService],
 })
 export class AppModule implements OnModuleInit {

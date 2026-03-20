@@ -48,9 +48,10 @@ import { redisStore } from 'cache-manager-redis-yet';
           __dirname + '/adminauth/entities/*.entity{.ts,.js}',
         ],
         synchronize: configService.get<boolean>('DB_SYNCHRONIZE'),
-        ssl: configService.get<boolean>('DB_SSL_REQUIRED')
-          ? { rejectUnauthorized: false }
-          : true,
+        ssl:
+          configService.get<string>('DB_SSL_REQUIRED') === 'true'
+            ? { rejectUnauthorized: false }
+            : true,
       }),
     }),
     ApisModule,

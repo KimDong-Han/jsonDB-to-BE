@@ -51,7 +51,7 @@ import { redisStore } from 'cache-manager-redis-yet';
         ssl:
           configService.get<string>('DB_SSL_REQUIRED') === 'true'
             ? { rejectUnauthorized: false }
-            : true,
+            : false,
       }),
     }),
     ApisModule,

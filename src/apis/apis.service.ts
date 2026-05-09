@@ -1,6 +1,5 @@
 import {
   ConflictException,
-  Inject,
   Injectable,
   InternalServerErrorException,
   Logger,
@@ -16,7 +15,6 @@ import { FilterOperator, paginate, PaginateQuery } from 'nestjs-paginate';
 import * as newfanjson from '../jsonData/newfandata.json';
 import { VideoJson } from 'src/types/typs';
 import { newbwg, newbwgType } from './entities/newbwg.entity';
-import Redis from 'ioredis';
 const broadCastData: VideoJson[] = newfanjson as VideoJson[];
 
 @Injectable()
@@ -27,7 +25,6 @@ export class ApisService {
     private fanCameApiRepository: Repository<FcnCamApi>,
     @InjectRepository(newbwg)
     private newbwg: Repository<newbwg>,
-    @Inject('REDIS') private readonly redisClient: Redis,
   ) {}
   // 유저가 이거 추가해주세요 요청
   async createUserRequest(createApiDto: CreateApiDto) {
@@ -232,49 +229,5 @@ export class ApisService {
     };
     const qury = await paginate(query, this.newbwg, customQurty);
     return qury;
-  }
-  //레디스 업로드용
-  async newBwgVideoOnRedis(query: PaginateQuery) {
-    if (!query.sortBy) {
-      throw new ConflictException('올바르지 않은 접근입니다.');
-    }
-    //첫 페이지 이고, 따로 필터링이 걸리지않았으며,AES정렬일때만 레디스로(이것이 첫 페이지 조건)
-    const sortableColumns: newbwgType[] = ['uploadDate'];
-    const defaultSortBy: [newbwgType, 'ASC' | 'DESC'][] = [
-      ['uploadDate', 'ASC'],
-    ];
-    const searchableColumns: newbwgType[] = ['title', 'tag'];
-    const customQurty = {
-      sortableColumns: sortableColumns, // 정렬 가능한 컬럼
-      defaultSortBy: defaultSortBy, // 기본 정렬 방식
-      searchableColumns: searchableColumns, // 검색 가능한 컬럼
-      where: { viewStatus: true },
-      filterableColumns: {
-        // 필터, 이거없으면 필터링이 안됨.
-        tag: [FilterOperator.EQ],
-      },
-    };
-    const qury = await paginate(query, this.newbwg, customQurty);
-    const getFirstData = await this.newbwg.find({
-      where: { viewStatus: true },
-      order: { uploadDate: 'ASC' },
-      take: 10,
-    });
-    const videoList = getFirstData.map((item) => {
-      return {
-        id: item.id,
-        title: item.title,
-        url: item.url,
-        iconImg: item.iconImg,
-        uploadDate: item.uploadDate,
-        tag: item.tag,
-        createdAt: item.createdAt,
-        updatedAt: item.updatedAt,
-      };
-    });
-    const onRedisData = JSON.stringify(qury);
-    const setRedis = await this.redisClient.set('newbwg:first', onRedisData);
-    // const gerRedis = await this.redisClient.get('newbwg:first');
-    // console.log('>>>', gerRedis ? JSON.parse(gerRedis) : null);
   }
 }

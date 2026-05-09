@@ -1,33 +1,26 @@
 import {
   ConflictException,
-  Inject,
   Injectable,
   InternalServerErrorException,
-  Logger,
   NotFoundException,
 } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
 import axios from 'axios';
-import Redis from 'ioredis';
 import { FilterOperator, paginate, PaginateQuery } from 'nestjs-paginate';
 import { newbwg, newbwgType } from './entities/newbwg.entity';
 import { CreateNewbwgDto } from './dto/create-newbwg.dto';
 import { UpdateNewbwgDto } from './dto/update-newbwg.dto';
 import { PreviewUrlDto } from './dto/preview-url.dto';
 
-const REDIS_FIRST_PAGE_KEY = 'newbwg:first';
 const YT_REGEX =
   /(?:youtube\.com\/watch\?v=|youtu\.be\/|youtube\.com\/shorts\/)([a-zA-Z0-9_-]{11})/;
 
 @Injectable()
 export class AdminApisService {
-  private readonly logger = new Logger(AdminApisService.name);
-
   constructor(
     @InjectRepository(newbwg)
     private readonly newbwgRepo: Repository<newbwg>,
-    @Inject('REDIS') private readonly redisClient: Redis,
   ) {}
 
   async previewYoutube(dto: PreviewUrlDto) {
@@ -111,7 +104,6 @@ export class AdminApisService {
       uploadDate: new Date(dto.uploadDate),
     });
     const saved = await this.newbwgRepo.save(created);
-    await this.invalidateFirstPageCache();
     return saved;
   }
 
@@ -130,7 +122,6 @@ export class AdminApisService {
       target.uploadDate = new Date(dto.uploadDate);
     }
     const saved = await this.newbwgRepo.save(target);
-    await this.invalidateFirstPageCache();
     return saved;
   }
 
@@ -139,7 +130,6 @@ export class AdminApisService {
     if (!target) throw new NotFoundException('해당 영상을 찾을 수 없습니다.');
     target.viewStatus = false;
     const saved = await this.newbwgRepo.save(target);
-    await this.invalidateFirstPageCache();
     return { hidden: true, item: saved };
   }
 
@@ -148,7 +138,6 @@ export class AdminApisService {
     if (!target) throw new NotFoundException('해당 영상을 찾을 수 없습니다.');
     target.viewStatus = true;
     const saved = await this.newbwgRepo.save(target);
-    await this.invalidateFirstPageCache();
     return { restored: true, item: saved };
   }
 
@@ -157,15 +146,6 @@ export class AdminApisService {
     if (result.affected === 0) {
       throw new NotFoundException('해당 영상을 찾을 수 없습니다.');
     }
-    await this.invalidateFirstPageCache();
     return { deleted: true };
-  }
-
-  private async invalidateFirstPageCache() {
-    try {
-      await this.redisClient.del(REDIS_FIRST_PAGE_KEY);
-    } catch (e) {
-      this.logger.warn(`Redis 캐시 무효화 실패: ${e}`);
-    }
   }
 }

@@ -1,4 +1,4 @@
-import { IsNotEmpty, IsOptional, IsString } from 'class-validator';
+import { IsNotEmpty, IsString } from 'class-validator';
 
 export class CreateAdminauthDto {
   @IsString()
@@ -8,8 +8,4 @@ export class CreateAdminauthDto {
   @IsString()
   @IsNotEmpty()
   password: string;
-
-  @IsString()
-  @IsOptional()
-  permission: string = 'subAdmin';
 }

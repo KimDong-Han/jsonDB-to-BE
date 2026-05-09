@@ -23,7 +23,7 @@ export class AdminauthService {
   ) {}
   /**회원가입 API */
   async signUpAdmin(createAdminauthDto: CreateAdminauthDto) {
-    const { id, password, permission } = createAdminauthDto;
+    const { id, password } = createAdminauthDto;
     try {
       const saltSeed = 10;
       const hashedPw = await bcrypt.hash(password, saltSeed);
@@ -35,8 +35,11 @@ export class AdminauthService {
         adminId: id,
         pw: hashedPw,
       });
-      const result = await this.admin.save(insertAdmin);
-      return result;
+      await this.admin.save(insertAdmin);
+      return {
+        message:
+          '가입 신청이 완료되었습니다. 관리자 승인 후 로그인할 수 있습니다.',
+      };
     } catch (error) {
       if (error instanceof ConflictException) {
         throw error;
@@ -60,13 +63,16 @@ export class AdminauthService {
       if (!validatePw) {
         throw new UnauthorizedException('잘못된 아이디 또는 비밀번호입니다.');
       }
+      if (findId.permission === 'pending') {
+        throw new UnauthorizedException('관리자 확인중입니다.');
+      }
       const payload = { id: findId.adminId };
       const access_token = this.jwtService.sign(payload);
       const savereids = await this.redisClient.set(
         `jwt:${id}`,
         access_token,
         'EX',
-        3600,
+        7200,
       );
       const readredis = await this.redisClient.get(`jwt:${id}`);
       return { access_token };

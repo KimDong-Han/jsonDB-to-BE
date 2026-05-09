@@ -21,7 +21,7 @@ export class signup {
   adminId: string;
   @Column({ type: 'text', nullable: false })
   pw: string;
-  @Column({ type: 'text', nullable: false, default: 'subAdmin' })
+  @Column({ type: 'text', nullable: false, default: 'pending' })
   permission: string;
   // 생성,업데이트 날짜 자동삽입 - 타임스탬프
   @CreateDateColumn({ type: 'timestamp with time zone' })

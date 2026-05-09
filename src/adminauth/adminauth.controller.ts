@@ -36,7 +36,7 @@ export class AdminauthController {
     const token = await this.adminauthService.loginAdmin(createAdminauthDto);
     res.cookie('access_token', token, {
       httpOnly: true,
-      maxAge: 1000 * 60 * 60 * 3, // 3시간,
+      maxAge: 1000 * 60 * 60 * 2, // 2시간,
       secure: true,
     });
     return res.send({ message: '로그인 성공' });

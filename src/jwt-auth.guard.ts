@@ -6,14 +6,18 @@ import {
   UnauthorizedException,
 } from '@nestjs/common';
 import { JwtService } from '@nestjs/jwt';
+import { InjectRepository } from '@nestjs/typeorm';
 import Redis from 'ioredis';
-import { Observable } from 'rxjs';
+import { Repository } from 'typeorm';
+import { signup } from './adminauth/entities/signup.entity';
 
 @Injectable()
 export class JwtGuard implements CanActivate {
   constructor(
     private readonly jwtService: JwtService,
     @Inject('REDIS') private readonly redisClient: Redis,
+    @InjectRepository(signup)
+    private readonly adminRepo: Repository<signup>,
   ) {}
   async canActivate(context: ExecutionContext): Promise<boolean> {
     const reqToken = context.switchToHttp().getRequest();
@@ -25,13 +29,18 @@ export class JwtGuard implements CanActivate {
       const validToken = await this.redisClient.get(`jwt:${id}`);
 
       if (!validToken || validToken !== token.access_token) {
-        //토큰 검증이 실패하면 거부처리
         throw new UnauthorizedException('access denied');
       }
-      //성공하면 id반환.
+
+      const admin = await this.adminRepo.findOne({ where: { adminId: id } });
+      if (!admin || admin.permission === 'pending') {
+        throw new UnauthorizedException('관리자 승인이 필요합니다.');
+      }
+
       reqToken.userid = { id };
       return true;
     } catch (err) {
+      if (err instanceof UnauthorizedException) throw err;
       throw new UnauthorizedException('Invalid token, access denied');
     }
   }

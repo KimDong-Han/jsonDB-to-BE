@@ -3,6 +3,7 @@ import { ArmyfestivalService } from './armyfestival.service';
 import { ArmyfestivalController } from './armyfestival.controller';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { Armyfestival } from './entities/armyfestival.entity';
+import { signup } from '../adminauth/entities/signup.entity';
 import { JwtModule } from '@nestjs/jwt';
 import { ConfigModule, ConfigService } from '@nestjs/config';
 import { AdminArmyfestivalController } from './admin-armyfestival.controller';
@@ -10,7 +11,7 @@ import { AdminArmyfestivalService } from './admin-armyfestival.service';
 
 @Module({
   imports: [
-    TypeOrmModule.forFeature([Armyfestival]),
+    TypeOrmModule.forFeature([Armyfestival, signup]),
     JwtModule.registerAsync({
       imports: [ConfigModule],
       inject: [ConfigService],

@@ -58,6 +58,9 @@ export class AdminApisService {
         iconImg,
         uploadDate: snippet.publishedAt,
         channelTitle: snippet.channelTitle,
+        channelUrl: snippet.channelId
+          ? `https://www.youtube.com/channel/${snippet.channelId}`
+          : '',
       };
     } catch (error) {
       if (error instanceof NotFoundException) throw error;

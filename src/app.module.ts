@@ -9,6 +9,7 @@ import { CreateData } from './apis/entities/createData.entity';
 import { Api } from './apis/entities/api.entity';
 import { ArmyfestivalModule } from './armyfestival/armyfestival.module';
 import { Armyfestival } from './armyfestival/entities/armyfestival.entity';
+import { FancamModule } from './fancam/fancam.module';
 import { AdminauthModule } from './adminauth/adminauth.module';
 import { RedisModule } from './redis.module';
 import { redisStore } from 'cache-manager-redis-yet';
@@ -46,6 +47,7 @@ import { redisStore } from 'cache-manager-redis-yet';
           __dirname + '/apis/entities/*.entity{.ts,.js}',
           __dirname + '/armyfestival/entities/*.entity{.ts,.js}',
           __dirname + '/adminauth/entities/*.entity{.ts,.js}',
+          __dirname + '/fancam/entities/*.entity{.ts,.js}',
         ],
         synchronize: configService.get<boolean>('DB_SYNCHRONIZE'),
         ssl:
@@ -57,6 +59,7 @@ import { redisStore } from 'cache-manager-redis-yet';
     ApisModule,
     TypeOrmModule.forFeature([CreateData, Armyfestival]),
     ArmyfestivalModule,
+    FancamModule,
     AdminauthModule,
   ],
   controllers: [AppController],

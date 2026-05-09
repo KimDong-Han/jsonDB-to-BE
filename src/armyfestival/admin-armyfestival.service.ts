@@ -17,7 +17,7 @@ export class AdminArmyfestivalService {
     private readonly armyRepo: Repository<Armyfestival>,
   ) {}
 
-  async list(query: PaginateQuery) {
+  async list(query: PaginateQuery, includeHidden = false) {
     const sortableColumns: ArmyFestivalType[] = [
       'uploadDate',
       'createdAt',
@@ -31,6 +31,7 @@ export class AdminArmyfestivalService {
       sortableColumns,
       defaultSortBy,
       searchableColumns,
+      ...(includeHidden ? {} : { where: { viewStatus: true } }),
       filterableColumns: {
         tag: [FilterOperator.EQ],
       },
@@ -74,6 +75,22 @@ export class AdminArmyfestivalService {
   }
 
   async remove(id: string) {
+    const target = await this.armyRepo.findOne({ where: { id } });
+    if (!target) throw new NotFoundException('해당 영상을 찾을 수 없습니다.');
+    target.viewStatus = false;
+    const saved = await this.armyRepo.save(target);
+    return { hidden: true, item: saved };
+  }
+
+  async restore(id: string) {
+    const target = await this.armyRepo.findOne({ where: { id } });
+    if (!target) throw new NotFoundException('해당 영상을 찾을 수 없습니다.');
+    target.viewStatus = true;
+    const saved = await this.armyRepo.save(target);
+    return { restored: true, item: saved };
+  }
+
+  async hardRemove(id: string) {
     const result = await this.armyRepo.delete({ id });
     if (result.affected === 0) {
       throw new NotFoundException('해당 영상을 찾을 수 없습니다.');

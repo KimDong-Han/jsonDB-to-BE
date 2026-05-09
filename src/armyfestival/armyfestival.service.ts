@@ -21,6 +21,7 @@ export class ArmyfestivalService {
     const customQuery = {
       sortableColumns,
       defaultSortBy,
+      where: { viewStatus: true }, // soft delete 제외
       filterableColumns: {
         // FE의 월 선택 기능을 위한 필터 적용 두 날짜 사이의 데이터만 가져오는 옵션
         uploadDate: [FilterOperator.BTW],

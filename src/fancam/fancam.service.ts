@@ -25,6 +25,7 @@ export class FancamService {
         sortableColumns,
         defaultSortBy,
         searchableColumns,
+        where: { viewStatus: true }, // soft delete 제외
         filterableColumns: {
           tag: [FilterOperator.EQ],
           uploadDate: [FilterOperator.BTW],

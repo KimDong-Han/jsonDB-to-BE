@@ -71,7 +71,7 @@ export class AdminApisService {
     }
   }
 
-  async listNewbwg(query: PaginateQuery) {
+  async listNewbwg(query: PaginateQuery, includeHidden = false) {
     const sortableColumns: newbwgType[] = [
       'uploadDate',
       'createdAt',
@@ -85,6 +85,7 @@ export class AdminApisService {
       sortableColumns,
       defaultSortBy,
       searchableColumns,
+      ...(includeHidden ? {} : { where: { viewStatus: true } }),
       filterableColumns: {
         tag: [FilterOperator.EQ],
       },
@@ -134,6 +135,24 @@ export class AdminApisService {
   }
 
   async deleteNewbwg(id: string) {
+    const target = await this.newbwgRepo.findOne({ where: { id } });
+    if (!target) throw new NotFoundException('해당 영상을 찾을 수 없습니다.');
+    target.viewStatus = false;
+    const saved = await this.newbwgRepo.save(target);
+    await this.invalidateFirstPageCache();
+    return { hidden: true, item: saved };
+  }
+
+  async restoreNewbwg(id: string) {
+    const target = await this.newbwgRepo.findOne({ where: { id } });
+    if (!target) throw new NotFoundException('해당 영상을 찾을 수 없습니다.');
+    target.viewStatus = true;
+    const saved = await this.newbwgRepo.save(target);
+    await this.invalidateFirstPageCache();
+    return { restored: true, item: saved };
+  }
+
+  async hardDeleteNewbwg(id: string) {
     const result = await this.newbwgRepo.delete({ id });
     if (result.affected === 0) {
       throw new NotFoundException('해당 영상을 찾을 수 없습니다.');

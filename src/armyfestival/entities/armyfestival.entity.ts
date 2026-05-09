@@ -30,6 +30,9 @@ export class Armyfestival {
   @Column({ type: 'timestamp with time zone', nullable: false }) // 업로드 날짜
   uploadDate: Date;
 
+  @Column({ type: 'boolean', nullable: false, default: true }) // soft delete 플래그 (false=숨김)
+  viewStatus: boolean;
+
   // 생성,업데이트 날짜 자동삽입 - 타임스탬프
   @CreateDateColumn({ type: 'timestamp with time zone' })
   createdAt: Date;

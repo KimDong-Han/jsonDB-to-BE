@@ -9,6 +9,7 @@ import {
   ParseUUIDPipe,
   Patch,
   Post,
+  Query,
   UseGuards,
 } from '@nestjs/common';
 import { Paginate, PaginateQuery } from 'nestjs-paginate';
@@ -30,8 +31,11 @@ export class AdminApisController {
   }
 
   @Get('newbwg')
-  list(@Paginate() query: PaginateQuery) {
-    return this.adminApisService.listNewbwg(query);
+  list(
+    @Paginate() query: PaginateQuery,
+    @Query('includeHidden') includeHidden?: string,
+  ) {
+    return this.adminApisService.listNewbwg(query, includeHidden === 'true');
   }
 
   @Get('newbwg/:id')
@@ -55,5 +59,15 @@ export class AdminApisController {
   @Delete('newbwg/:id')
   remove(@Param('id', new ParseUUIDPipe()) id: string) {
     return this.adminApisService.deleteNewbwg(id);
+  }
+
+  @Patch('newbwg/:id/restore')
+  restore(@Param('id', new ParseUUIDPipe()) id: string) {
+    return this.adminApisService.restoreNewbwg(id);
+  }
+
+  @Delete('newbwg/:id/hard')
+  hardRemove(@Param('id', new ParseUUIDPipe()) id: string) {
+    return this.adminApisService.hardDeleteNewbwg(id);
   }
 }

@@ -224,6 +224,7 @@ export class ApisService {
       sortableColumns: sortableColumns, // 정렬 가능한 컬럼.
       defaultSortBy: defaultSortBy, // 기본 정렬 방식
       searchableColumns: searchableColumns, // 검색 가능한 컬럼
+      where: { viewStatus: true }, // soft delete된 항목 제외
       filterableColumns: {
         // 필터, 이거없으면 필터링이 안됨.
         tag: [FilterOperator.EQ],
@@ -247,6 +248,7 @@ export class ApisService {
       sortableColumns: sortableColumns, // 정렬 가능한 컬럼
       defaultSortBy: defaultSortBy, // 기본 정렬 방식
       searchableColumns: searchableColumns, // 검색 가능한 컬럼
+      where: { viewStatus: true },
       filterableColumns: {
         // 필터, 이거없으면 필터링이 안됨.
         tag: [FilterOperator.EQ],
@@ -254,6 +256,7 @@ export class ApisService {
     };
     const qury = await paginate(query, this.newbwg, customQurty);
     const getFirstData = await this.newbwg.find({
+      where: { viewStatus: true },
       order: { uploadDate: 'ASC' },
       take: 10,
     });

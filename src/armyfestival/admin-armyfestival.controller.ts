@@ -7,6 +7,7 @@ import {
   ParseUUIDPipe,
   Patch,
   Post,
+  Query,
   UseGuards,
 } from '@nestjs/common';
 import { Paginate, PaginateQuery } from 'nestjs-paginate';
@@ -21,8 +22,11 @@ export class AdminArmyfestivalController {
   constructor(private readonly service: AdminArmyfestivalService) {}
 
   @Get()
-  list(@Paginate() query: PaginateQuery) {
-    return this.service.list(query);
+  list(
+    @Paginate() query: PaginateQuery,
+    @Query('includeHidden') includeHidden?: string,
+  ) {
+    return this.service.list(query, includeHidden === 'true');
   }
 
   @Get(':id')
@@ -46,5 +50,15 @@ export class AdminArmyfestivalController {
   @Delete(':id')
   remove(@Param('id', new ParseUUIDPipe()) id: string) {
     return this.service.remove(id);
+  }
+
+  @Patch(':id/restore')
+  restore(@Param('id', new ParseUUIDPipe()) id: string) {
+    return this.service.restore(id);
+  }
+
+  @Delete(':id/hard')
+  hardRemove(@Param('id', new ParseUUIDPipe()) id: string) {
+    return this.service.hardRemove(id);
   }
 }

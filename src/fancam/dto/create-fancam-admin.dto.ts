@@ -4,6 +4,7 @@ import {
   IsOptional,
   IsString,
   IsUrl,
+  IsUUID,
 } from 'class-validator';
 
 export class CreateFancamAdminDto {
@@ -29,6 +30,10 @@ export class CreateFancamAdminDto {
   @IsString()
   @IsOptional()
   tag?: string;
+
+  @IsUUID()
+  @IsOptional()
+  eventTagId?: string;
 
   @IsISO8601()
   uploadDate: string;

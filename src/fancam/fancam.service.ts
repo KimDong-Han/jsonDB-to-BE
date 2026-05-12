@@ -21,13 +21,21 @@ export class FancamService {
       : [['uploadDate', 'ASC']];
     const searchableColumns: FancamType[] = ['title', 'source'];
     try {
-      return await paginate(query, this.fancamRepo, {
+      const qb = this.fancamRepo
+        .createQueryBuilder('fancam')
+        .leftJoinAndSelect('fancam.eventTag', 'eventTag')
+        .where('fancam.viewStatus = :v', { v: true })
+        .andWhere(
+          '(fancam.eventTagId IS NULL OR eventTag.viewStatus = true)',
+        );
+
+      return await paginate(query, qb, {
         sortableColumns,
         defaultSortBy,
         searchableColumns,
-        where: { viewStatus: true }, // soft delete 제외
         filterableColumns: {
           tag: [FilterOperator.EQ],
+          eventTagId: [FilterOperator.EQ],
           uploadDate: [FilterOperator.BTW],
         },
       });

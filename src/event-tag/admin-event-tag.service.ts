@@ -4,7 +4,7 @@ import {
   NotFoundException,
 } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
-import { LessThan, MoreThan, Repository } from 'typeorm';
+import { ILike, LessThan, MoreThan, Repository } from 'typeorm';
 import { EventTag } from './entities/event-tag.entity';
 import { CreateEventTagAdminDto } from './dto/create-event-tag-admin.dto';
 import { UpdateEventTagAdminDto } from './dto/update-event-tag-admin.dto';
@@ -16,9 +16,13 @@ export class AdminEventTagService {
     private readonly repo: Repository<EventTag>,
   ) {}
 
-  async list(includeHidden = false) {
+  async list(includeHidden = false, search?: string) {
+    const where: Record<string, unknown> = {};
+    if (!includeHidden) where.viewStatus = true;
+    const trimmed = search?.trim();
+    if (trimmed) where.name = ILike(`%${trimmed}%`);
     return this.repo.find({
-      where: includeHidden ? {} : { viewStatus: true },
+      where,
       order: { sortOrder: 'ASC', createdAt: 'ASC' },
     });
   }

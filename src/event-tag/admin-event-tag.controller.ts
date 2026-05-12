@@ -22,8 +22,11 @@ export class AdminEventTagController {
   constructor(private readonly service: AdminEventTagService) {}
 
   @Get()
-  list(@Query('includeHidden') includeHidden?: string) {
-    return this.service.list(includeHidden === 'true');
+  list(
+    @Query('includeHidden') includeHidden?: string,
+    @Query('search') search?: string,
+  ) {
+    return this.service.list(includeHidden === 'true', search);
   }
 
   @Get(':id')

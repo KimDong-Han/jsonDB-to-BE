@@ -4,7 +4,7 @@ import {
   NotFoundException,
 } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
-import { Repository } from 'typeorm';
+import { LessThan, MoreThan, Repository } from 'typeorm';
 import { EventTag } from './entities/event-tag.entity';
 import { CreateEventTagAdminDto } from './dto/create-event-tag-admin.dto';
 import { UpdateEventTagAdminDto } from './dto/update-event-tag-admin.dto';
@@ -77,5 +77,29 @@ export class AdminEventTagService {
       throw new NotFoundException('해당 태그를 찾을 수 없습니다.');
     }
     return { deleted: true };
+  }
+
+  async move(id: string, dir: 'up' | 'down') {
+    const current = await this.repo.findOne({ where: { id } });
+    if (!current) throw new NotFoundException('해당 태그를 찾을 수 없습니다.');
+
+    const neighbor = await this.repo.findOne({
+      where: {
+        sortOrder:
+          dir === 'up'
+            ? LessThan(current.sortOrder)
+            : MoreThan(current.sortOrder),
+      },
+      order: { sortOrder: dir === 'up' ? 'DESC' : 'ASC' },
+    });
+    if (!neighbor) return current; // 이미 최상단/최하단
+
+    await this.repo.manager.transaction(async (manager) => {
+      const tmp = current.sortOrder;
+      current.sortOrder = neighbor.sortOrder;
+      neighbor.sortOrder = tmp;
+      await manager.save(EventTag, [current, neighbor]);
+    });
+    return current;
   }
 }

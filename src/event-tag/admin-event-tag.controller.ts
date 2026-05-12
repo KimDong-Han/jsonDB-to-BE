@@ -1,4 +1,5 @@
 import {
+  BadRequestException,
   Body,
   Controller,
   Delete,
@@ -46,5 +47,16 @@ export class AdminEventTagController {
   @Delete(':id')
   remove(@Param('id', new ParseUUIDPipe()) id: string) {
     return this.service.remove(id);
+  }
+
+  @Patch(':id/move')
+  move(
+    @Param('id', new ParseUUIDPipe()) id: string,
+    @Query('dir') dir: string,
+  ) {
+    if (dir !== 'up' && dir !== 'down') {
+      throw new BadRequestException('dir must be up or down');
+    }
+    return this.service.move(id, dir);
   }
 }

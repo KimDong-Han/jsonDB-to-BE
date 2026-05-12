@@ -11,6 +11,7 @@ import { ArmyfestivalModule } from './armyfestival/armyfestival.module';
 import { Armyfestival } from './armyfestival/entities/armyfestival.entity';
 import { FancamModule } from './fancam/fancam.module';
 import { EventTagModule } from './event-tag/event-tag.module';
+import { AdminNoticeModule } from './admin-notice/admin-notice.module';
 import { AdminauthModule } from './adminauth/adminauth.module';
 import { RedisModule } from './redis.module';
 import { redisStore } from 'cache-manager-redis-yet';
@@ -50,6 +51,7 @@ import { redisStore } from 'cache-manager-redis-yet';
           __dirname + '/adminauth/entities/*.entity{.ts,.js}',
           __dirname + '/fancam/entities/*.entity{.ts,.js}',
           __dirname + '/event-tag/entities/*.entity{.ts,.js}',
+          __dirname + '/admin-notice/entities/*.entity{.ts,.js}',
         ],
         synchronize: configService.get<boolean>('DB_SYNCHRONIZE'),
         ssl:
@@ -63,6 +65,7 @@ import { redisStore } from 'cache-manager-redis-yet';
     ArmyfestivalModule,
     FancamModule,
     EventTagModule,
+    AdminNoticeModule,
     AdminauthModule,
   ],
   controllers: [AppController],

@@ -36,7 +36,9 @@ export class JwtGuard implements CanActivate {
       if (!admin || admin.permission === 'pending') {
         throw new UnauthorizedException('관리자 승인이 필요합니다.');
       }
-
+      if (!admin || admin.permission === 'holiday') {
+        throw new UnauthorizedException('명절에는 쉬십쇼.');
+      }
       reqToken.userid = { id };
       return true;
     } catch (err) {

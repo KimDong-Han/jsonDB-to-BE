@@ -15,6 +15,8 @@ import { AdminNoticeModule } from './admin-notice/admin-notice.module';
 import { AdminauthModule } from './adminauth/adminauth.module';
 import { RedisModule } from './redis.module';
 import { redisStore } from 'cache-manager-redis-yet';
+import { ThrottlerModule, ThrottlerGuard } from '@nestjs/throttler';
+import { APP_GUARD } from '@nestjs/core';
 
 @Module({
   imports: [
@@ -25,6 +27,12 @@ import { redisStore } from 'cache-manager-redis-yet';
           ? '.env.production'
           : '.env.development',
     }),
+    ThrottlerModule.forRoot([
+      {
+        ttl: 60000, // 1분
+        limit: 300, // IP당 분당 300회 (느슨한 전역 제한)
+      },
+    ]),
     RedisModule,
     CacheModule.register({
       isGlobal: true,
@@ -69,7 +77,13 @@ import { redisStore } from 'cache-manager-redis-yet';
     AdminauthModule,
   ],
   controllers: [AppController],
-  providers: [AppService],
+  providers: [
+    AppService,
+    {
+      provide: APP_GUARD,
+      useClass: ThrottlerGuard,
+    },
+  ],
 })
 export class AppModule implements OnModuleInit {
   private readonly logger = new Logger(AppModule.name);

@@ -17,16 +17,19 @@ import { CreateAdminauthDto } from './dto/create-adminauth.dto';
 import { UpdateAdminauthDto } from './dto/update-adminauth.dto';
 import { Response } from 'express';
 import { JwtGuard } from 'src/jwt-auth.guard';
+import { Throttle } from '@nestjs/throttler';
 
 @Controller('adminauth')
 export class AdminauthController {
   constructor(private readonly adminauthService: AdminauthService) {}
 
+  @Throttle({ default: { ttl: 60000, limit: 5 } }) // 분당 5회
   @Post('/signupadm')
   signupForAdmin(@Body() createAdminauthDto: CreateAdminauthDto) {
     return this.adminauthService.signUpAdmin(createAdminauthDto);
   }
 
+  @Throttle({ default: { ttl: 60000, limit: 10 } }) // 브루트포스 방어: 분당 10회
   @Post('/loginadm')
   @HttpCode(HttpStatus.OK) // 성공 시 HTTP 200
   async loginForAdmin(

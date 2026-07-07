@@ -57,7 +57,8 @@ export class AdminauthService {
         where: { adminId: id },
       });
       if (!findId) {
-        throw new ConflictException('이용자를 찾을 수 없습니다.');
+        // 계정 존재 여부를 노출하지 않도록 비밀번호 오류와 동일한 메시지 사용
+        throw new UnauthorizedException('잘못된 아이디 또는 비밀번호입니다.');
       }
       const validatePw = await bcrypt.compare(password, findId.pw);
       if (!validatePw) {
@@ -77,7 +78,7 @@ export class AdminauthService {
       const readredis = await this.redisClient.get(`jwt:${id}`);
       return { access_token };
     } catch (error) {
-      if (error instanceof ConflictException) {
+      if (error instanceof UnauthorizedException) {
         throw error;
       }
       throw new InternalServerErrorException(

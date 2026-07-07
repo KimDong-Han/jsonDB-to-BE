@@ -53,7 +53,7 @@ import { redisStore } from 'cache-manager-redis-yet';
           __dirname + '/event-tag/entities/*.entity{.ts,.js}',
           __dirname + '/admin-notice/entities/*.entity{.ts,.js}',
         ],
-        synchronize: configService.get<boolean>('DB_SYNCHRONIZE'),
+        synchronize: false, // 스키마 변경은 DDL로 직접 반영
         ssl:
           configService.get<string>('DB_SSL_REQUIRED') === 'true'
             ? { rejectUnauthorized: false }

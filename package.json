@@ -21,6 +21,8 @@
     "start:prod:env": "cross-env NODE_ENV=production node dist/main",
     "dev": "pm2 start ecosystem.config.js --only qwer_dev --env development",
     "start": "pm2 start ecosystem.config.js --only qwer_prod --env production",
+    "deploy": "npm install && npm run build && pm2 reload qwer_prod",
+    "qwerflix": "npm install && npm run build && pm2 reload qwer_prod",
     "del": "pm2 del all"
   },
   "dependencies": {

@@ -26,7 +26,9 @@ export class AdminauthController {
   @Throttle({ default: { ttl: 60000, limit: 5 } }) // 분당 5회
   @Post('/signupadm')
   signupForAdmin(@Body() createAdminauthDto: CreateAdminauthDto) {
-    return this.adminauthService.signUpAdmin(createAdminauthDto);
+    // return this.adminauthService.signUpAdmin(createAdminauthDto);
+
+    return 'this api is not available for now, please contact the administrator';
   }
 
   @Throttle({ default: { ttl: 60000, limit: 10 } }) // 브루트포스 방어: 분당 10회

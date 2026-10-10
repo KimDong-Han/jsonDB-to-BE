@@ -25,7 +25,7 @@ export class Armyfestival {
   url: string;
   @Column({ type: 'text', nullable: false }) // 썸네일 이미지 URL
   iconImg: string;
-  @Column({ type: 'varchar', length: 50, default: 'none' }) // 태그
+  @Column({ type: 'varchar', length: 200, default: 'none' }) // 태그 (이벤트 태그 이름이 복사되므로 50자로는 부족)
   tag: string;
   @Column({ type: 'timestamp with time zone', nullable: false }) // 업로드 날짜
   uploadDate: Date;

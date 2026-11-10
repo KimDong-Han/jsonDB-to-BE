@@ -1,0 +1,12 @@
+node_modules
+dist
+.git
+.env*
+log_docs
+pm2
+coverage
+test
+*.md
+*.bak
+json-to-be-project@0.0.1
+.claude
